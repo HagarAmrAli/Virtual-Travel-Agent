@@ -1,0 +1,1001 @@
+DestinationID,Name,State,Type,Popularity,BestTimeToVisit,Season,PopularityTier,AvgRating,ReviewCount,RatingStd,TextReviewCount,BudgetLevel,CompositeScore
+1,Taj Mahal,Uttar Pradesh,Historical,8.691906258695031,Nov-Feb,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6340198729440687
+2,Goa Beaches,Goa,Beach,8.605031858363876,Nov-Mar,Year-round,Popular,2.5,2.0,0.7071067811865476,2.0,Moderate,1.3553987821755245
+3,Jaipur City,Rajasthan,City,9.225372007612826,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4276761160228386
+4,Kerala Backwaters,Kerala,Nature,7.9773855361057935,Sep-Mar,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.231876310776301
+5,Leh Ladakh,Jammu and Kashmir,Adventure,8.399821878316247,Apr-Jun,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6331436198029324
+6,Taj Mahal,Uttar Pradesh,Historical,7.6489495441529245,Nov-Feb,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.422946848632459
+7,Goa Beaches,Goa,Beach,9.14506834197403,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4274352050259222
+8,Jaipur City,Rajasthan,City,9.4587045393854,Oct-Mar,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.43632026778614
+9,Kerala Backwaters,Kerala,Nature,9.260450137338132,Sep-Mar,Year-round,Top Attraction,3.5,2.0,0.7071067811865476,2.0,Premium,1.7573650370124474
+10,Leh Ladakh,Jammu and Kashmir,Adventure,8.811952081678728,Apr-Jun,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.43438001041302
+11,Taj Mahal,Uttar Pradesh,Historical,8.17770928252728,Nov-Feb,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8324772820155655
+12,Goa Beaches,Goa,Beach,8.084317505906522,Nov-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0321971066857032
+13,Jaipur City,Rajasthan,City,9.114721643188815,Oct-Mar,Year-round,Top Attraction,2.0,2.0,1.4142135623730951,2.0,Premium,1.1569278515299994
+14,Kerala Backwaters,Kerala,Nature,8.551426230833268,Sep-Mar,Year-round,Popular,3.0,3.0,1.0,3.0,Moderate,1.6415425870284672
+15,Leh Ladakh,Jammu and Kashmir,Adventure,9.297389086740504,Apr-Jun,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8358363214282052
+16,Taj Mahal,Uttar Pradesh,Historical,8.337332881983857,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4250119986459517
+17,Goa Beaches,Goa,Beach,7.524150401549511,Nov-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6305166053726322
+18,Jaipur City,Rajasthan,City,8.332572923728481,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4249977187711855
+19,Kerala Backwaters,Kerala,Nature,9.01709023649701,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4270512707094911
+20,Leh Ladakh,Jammu and Kashmir,Adventure,8.930902395039807,Apr-Jun,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0347368613531032
+21,Taj Mahal,Uttar Pradesh,Historical,9.321865627407217,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4279655968822218
+22,Goa Beaches,Goa,Beach,7.745073501266791,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4232352205038006
+23,Jaipur City,Rajasthan,City,7.883349652185746,Oct-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.831594203124541
+24,Kerala Backwaters,Kerala,Nature,9.182423104129008,Sep-Mar,Year-round,Top Attraction,3.0,2.0,0.0,2.0,Premium,1.5571309559128201
+25,Leh Ladakh,Jammu and Kashmir,Adventure,9.416526131108329,Apr-Jun,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.0361937325613086
+26,Taj Mahal,Uttar Pradesh,Historical,9.088205553232354,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4272646166596972
+27,Goa Beaches,Goa,Beach,7.504499933755479,Nov-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.03045765396925
+28,Jaipur City,Rajasthan,City,8.471855314612888,Oct-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0333597201118223
+29,Kerala Backwaters,Kerala,Nature,8.320514389999829,Sep-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.032905697337983
+30,Leh Ladakh,Jammu and Kashmir,Adventure,7.930637906720852,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4237919137201627
+31,Taj Mahal,Uttar Pradesh,Historical,8.534267493855534,Nov-Feb,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4335469566495505
+32,Goa Beaches,Goa,Beach,7.8063301955187105,Nov-Mar,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.23136314475454
+33,Jaipur City,Rajasthan,City,7.684440449007848,Oct-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0309974755150073
+34,Kerala Backwaters,Kerala,Nature,8.206055639263237,Sep-Mar,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2325623210857732
+35,Leh Ladakh,Jammu and Kashmir,Adventure,8.115627955366532,Apr-Jun,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6322910380340833
+36,Taj Mahal,Uttar Pradesh,Historical,8.152769658316458,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4244583089749494
+37,Goa Beaches,Goa,Beach,8.874757885859394,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4266242736575783
+38,Jaipur City,Rajasthan,City,9.458687607787096,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4283760628233615
+39,Kerala Backwaters,Kerala,Nature,9.276722027226734,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4278301660816803
+40,Leh Ladakh,Jammu and Kashmir,Adventure,9.451473447708324,Apr-Jun,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4362985745111088
+41,Taj Mahal,Uttar Pradesh,Historical,9.45205627034071,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4283561688110222
+42,Goa Beaches,Goa,Beach,8.854828172623169,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4265644845178695
+43,Jaipur City,Rajasthan,City,8.935833780679161,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4268075013420376
+44,Kerala Backwaters,Kerala,Nature,8.844208014043545,Sep-Mar,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0344767782101143
+45,Leh Ladakh,Jammu and Kashmir,Adventure,8.987615299121257,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.426962845897364
+46,Taj Mahal,Uttar Pradesh,Historical,8.66663306287539,Nov-Feb,Year-round,Popular,4.0,2.0,0.0,2.0,Moderate,1.955583585789059
+47,Goa Beaches,Goa,Beach,7.726020724706562,Nov-Mar,Year-round,Hidden Gem,3.0,2.0,1.4142135623730951,2.0,Budget,1.5527617487745529
+48,Jaipur City,Rajasthan,City,9.072662351480414,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4272179870544415
+49,Kerala Backwaters,Kerala,Nature,8.0159728308643,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.424047918492593
+50,Leh Ladakh,Jammu and Kashmir,Adventure,8.18047732584072,Apr-Jun,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6324855861455058
+51,Taj Mahal,Uttar Pradesh,Historical,8.329362264700663,Nov-Feb,Year-round,Emerging,2.5,2.0,2.1213203435596424,2.0,Budget,1.3545717733945348
+52,Goa Beaches,Goa,Beach,8.298754590990846,Nov-Mar,Year-round,Emerging,2.3333333333333335,3.0,1.5275252316519465,3.0,Budget,1.3741179054422732
+53,Jaipur City,Rajasthan,City,8.399568313158765,Oct-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6331428591074599
+54,Kerala Backwaters,Kerala,Nature,8.116931496368345,Sep-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0322949486570887
+55,Leh Ladakh,Jammu and Kashmir,Adventure,7.560629646730556,Apr-Jun,Year-round,Hidden Gem,5.0,2.0,0.0,2.0,Budget,2.3522655755406245
+56,Taj Mahal,Uttar Pradesh,Historical,8.77933917498307,Nov-Feb,Year-round,Popular,2.5,2.0,0.7071067811865476,2.0,Moderate,1.3559217041253822
+57,Goa Beaches,Goa,Beach,8.061326287087322,Nov-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6321281330292456
+58,Jaipur City,Rajasthan,City,8.648115222412239,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.425944345667237
+59,Kerala Backwaters,Kerala,Nature,9.490122865222292,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.428470368595667
+60,Leh Ladakh,Jammu and Kashmir,Adventure,8.090294276209098,Apr-Jun,Year-round,Emerging,2.3333333333333335,3.0,0.5773502691896258,3.0,Budget,1.373492524497928
+61,Taj Mahal,Uttar Pradesh,Historical,9.255411351531992,Nov-Feb,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8357103882225796
+62,Goa Beaches,Goa,Beach,9.379786903532915,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4281393607105988
+63,Jaipur City,Rajasthan,City,9.202094230781736,Oct-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6355504368603289
+64,Kerala Backwaters,Kerala,Nature,7.995381521960635,Sep-Mar,Year-round,Hidden Gem,1.3333333333333333,3.0,0.5773502691896257,3.0,Budget,0.9732077862351823
+65,Leh Ladakh,Jammu and Kashmir,Adventure,8.264285623199319,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.424792856869598
+66,Taj Mahal,Uttar Pradesh,Historical,8.657185750902032,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4259715572527063
+67,Goa Beaches,Goa,Beach,7.593468221686345,Nov-Mar,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.4307245588330428
+68,Jaipur City,Rajasthan,City,7.599766915318256,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.422799300745955
+69,Kerala Backwaters,Kerala,Nature,9.251449511759905,Sep-Mar,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.235698502703263
+70,Leh Ladakh,Jammu and Kashmir,Adventure,8.302199786049163,Apr-Jun,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.032850753526131
+71,Taj Mahal,Uttar Pradesh,Historical,7.918856059125499,Nov-Feb,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4237565681773767
+72,Goa Beaches,Goa,Beach,9.49812898326928,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.428494386949808
+73,Jaipur City,Rajasthan,City,9.365362186929548,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4280960865607888
+74,Kerala Backwaters,Kerala,Nature,8.61852560875922,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4258555768262777
+75,Leh Ladakh,Jammu and Kashmir,Adventure,8.051674304536373,Apr-Jun,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2320991770815928
+76,Taj Mahal,Uttar Pradesh,Historical,9.019776840711156,Nov-Feb,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4350034846901172
+77,Goa Beaches,Goa,Beach,8.72436552320658,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4261730965696198
+78,Jaipur City,Rajasthan,City,8.697245496090385,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4260917364882713
+79,Kerala Backwaters,Kerala,Nature,8.48262944456915,Sep-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4254478883337076
+80,Leh Ladakh,Jammu and Kashmir,Adventure,9.167168852535996,Apr-Jun,Year-round,Top Attraction,3.6666666666666665,3.0,2.3094010767585034,3.0,Premium,1.910056481560242
+81,Taj Mahal,Uttar Pradesh,Historical,8.113730398100675,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4243411911943022
+82,Goa Beaches,Goa,Beach,8.067416540924038,Nov-Mar,Year-round,Emerging,4.5,2.0,0.7071067811865476,2.0,Budget,2.153785936223205
+83,Jaipur City,Rajasthan,City,9.25520276869782,Oct-Mar,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4357097624740773
+84,Kerala Backwaters,Kerala,Nature,9.33374854303011,Sep-Mar,Year-round,Top Attraction,2.6666666666666665,3.0,2.0816659994661326,3.0,Premium,1.5105562206317242
+85,Leh Ladakh,Jammu and Kashmir,Adventure,7.877439168200071,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4236323175046004
+86,Taj Mahal,Uttar Pradesh,Historical,8.093807911279,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.424281423733837
+87,Goa Beaches,Goa,Beach,8.322799778823294,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.42496839933647
+88,Jaipur City,Rajasthan,City,9.018383603515831,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4270551508105476
+89,Kerala Backwaters,Kerala,Nature,8.686130970942902,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4260583929128288
+90,Leh Ladakh,Jammu and Kashmir,Adventure,7.864848872360961,Apr-Jun,Year-round,Hidden Gem,2.0,3.0,1.7320508075688772,3.0,Budget,1.23948285495305
+91,Taj Mahal,Uttar Pradesh,Historical,8.775155892425978,Nov-Feb,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.2342696218452613
+92,Goa Beaches,Goa,Beach,7.842354721882594,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.423527064165648
+93,Jaipur City,Rajasthan,City,9.116298424696906,Oct-Mar,Year-round,Top Attraction,2.6666666666666665,3.0,2.0816659994661326,3.0,Premium,1.5099038702767247
+94,Kerala Backwaters,Kerala,Nature,7.678657960181018,Sep-Mar,Year-round,Hidden Gem,2.5,2.0,0.7071067811865476,2.0,Budget,1.352619660480976
+95,Leh Ladakh,Jammu and Kashmir,Adventure,8.18716561676901,Apr-Jun,Year-round,Emerging,3.0,2.0,2.8284271247461903,2.0,Budget,1.55414518345074
+96,Taj Mahal,Uttar Pradesh,Historical,8.984287702263758,Nov-Feb,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.234897017274775
+97,Goa Beaches,Goa,Beach,8.882535315140167,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4266476059454207
+98,Jaipur City,Rajasthan,City,7.511446246886857,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4225343387406606
+99,Kerala Backwaters,Kerala,Nature,8.154277486295694,Sep-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6324069866268707
+100,Leh Ladakh,Jammu and Kashmir,Adventure,8.55062227154497,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.425651866814635
+101,Taj Mahal,Uttar Pradesh,Historical,9.35787687156371,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4280736306146913
+102,Goa Beaches,Goa,Beach,7.901206474541698,Nov-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0316477735916088
+103,Jaipur City,Rajasthan,City,9.293866271159713,Oct-Mar,Year-round,Top Attraction,3.6666666666666665,3.0,0.5773502691896258,3.0,Premium,1.910436573816113
+104,Kerala Backwaters,Kerala,Nature,9.032056856576263,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427096170569729
+105,Leh Ladakh,Jammu and Kashmir,Adventure,9.367695620218187,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4281030868606548
+106,Taj Mahal,Uttar Pradesh,Historical,8.494823560399388,Nov-Feb,Year-round,Emerging,2.5,2.0,0.7071067811865476,2.0,Budget,1.355068157281631
+107,Goa Beaches,Goa,Beach,8.670099991881528,Nov-Mar,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4339544541436284
+108,Jaipur City,Rajasthan,City,8.180179995253692,Oct-Mar,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2324846941537446
+109,Kerala Backwaters,Kerala,Nature,8.024075275103758,Sep-Mar,Year-round,Hidden Gem,3.0,2.0,0.0,2.0,Budget,1.5536559124257443
+110,Leh Ladakh,Jammu and Kashmir,Adventure,8.885980061188206,Apr-Jun,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.234602094351548
+111,Taj Mahal,Uttar Pradesh,Historical,8.979764648904338,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4269392939467131
+112,Goa Beaches,Goa,Beach,8.196505600821453,Nov-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.632533670970448
+113,Jaipur City,Rajasthan,City,7.576534512918616,Oct-Mar,Year-round,Hidden Gem,3.0,3.0,1.7320508075688772,3.0,Budget,1.6386179118747233
+114,Kerala Backwaters,Kerala,Nature,9.46714704036077,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4284014411210824
+115,Leh Ladakh,Jammu and Kashmir,Adventure,8.717346793179837,Apr-Jun,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6340961945475232
+116,Taj Mahal,Uttar Pradesh,Historical,8.636073233725135,Nov-Feb,Year-round,Popular,2.0,2.0,0.0,2.0,Moderate,1.1554919063016083
+117,Goa Beaches,Goa,Beach,9.21979801445382,Nov-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.835603548211345
+118,Jaipur City,Rajasthan,City,7.69898565359074,Oct-Mar,Year-round,Hidden Gem,2.75,4.0,1.2583057392117916,4.0,Budget,1.6059283306910024
+119,Kerala Backwaters,Kerala,Nature,8.953643159740016,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4268609294792203
+120,Leh Ladakh,Jammu and Kashmir,Adventure,7.928950861748308,Apr-Jun,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.4317310067532287
+121,Taj Mahal,Uttar Pradesh,Historical,8.624112218256297,Nov-Feb,Year-round,Popular,3.0,2.0,2.8284271247461903,2.0,Moderate,1.555456023255202
+122,Goa Beaches,Goa,Beach,7.791202932648026,Nov-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8313177629659279
+123,Jaipur City,Rajasthan,City,9.31595003961975,Oct-Mar,Year-round,Top Attraction,2.75,4.0,1.5000000000000002,4.0,Premium,1.6107792238490894
+124,Kerala Backwaters,Kerala,Nature,7.921320004258767,Sep-Mar,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.2317081141807598
+125,Leh Ladakh,Jammu and Kashmir,Adventure,8.13647203127079,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4244094160938126
+126,Taj Mahal,Uttar Pradesh,Historical,8.271757062443388,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4248152711873303
+127,Goa Beaches,Goa,Beach,8.132745077467629,Nov-Mar,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.4323423894003866
+128,Jaipur City,Rajasthan,City,7.513479447324053,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4225404383419722
+129,Kerala Backwaters,Kerala,Nature,9.066328357904666,Sep-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8351431392416977
+130,Leh Ladakh,Jammu and Kashmir,Adventure,9.46063445778344,Apr-Jun,Year-round,Top Attraction,2.6666666666666665,3.0,2.0816659994661326,3.0,Premium,1.5109368783759842
+131,Taj Mahal,Uttar Pradesh,Historical,8.853926858989041,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4265617805769673
+132,Goa Beaches,Goa,Beach,8.188672007745929,Nov-Mar,Year-round,Emerging,3.5,4.0,1.7320508075688772,4.0,Budget,1.907397389753468
+133,Jaipur City,Rajasthan,City,7.813559346844389,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4234406780405333
+134,Kerala Backwaters,Kerala,Nature,7.743269418238725,Sep-Mar,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.2311739624227
+135,Leh Ladakh,Jammu and Kashmir,Adventure,9.398122784522716,Apr-Jun,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8361385225215519
+136,Taj Mahal,Uttar Pradesh,Historical,8.15356207947505,Nov-Feb,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0324048404064088
+137,Goa Beaches,Goa,Beach,8.863570277264008,Nov-Mar,Year-round,Popular,2.0,2.0,0.0,2.0,Moderate,1.156174397432225
+138,Jaipur City,Rajasthan,City,9.195643436953048,Oct-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8355310844788428
+139,Kerala Backwaters,Kerala,Nature,8.426322913287258,Sep-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.425278968739862
+140,Leh Ladakh,Jammu and Kashmir,Adventure,8.907807740975244,Apr-Jun,Year-round,Popular,2.6666666666666665,3.0,1.5275252316519468,3.0,Moderate,1.5092783982255595
+141,Taj Mahal,Uttar Pradesh,Historical,7.618133331669091,Nov-Feb,Year-round,Hidden Gem,1.5,2.0,0.7071067811865476,2.0,Budget,0.9524380865954403
+142,Goa Beaches,Goa,Beach,7.601039201109356,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4228031176033282
+143,Jaipur City,Rajasthan,City,8.299735698712732,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4248992070961384
+144,Kerala Backwaters,Kerala,Nature,7.8305412284530735,Sep-Mar,Year-round,Hidden Gem,3.5,2.0,2.1213203435596424,2.0,Budget,1.7530753102857923
+145,Leh Ladakh,Jammu and Kashmir,Adventure,9.388011428887994,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4281640342866642
+146,Taj Mahal,Uttar Pradesh,Historical,8.373844119971205,Nov-Feb,Year-round,Emerging,4.0,2.0,1.4142135623730951,2.0,Budget,1.9547052189603467
+147,Goa Beaches,Goa,Beach,7.770934466715671,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4233128034001472
+148,Jaipur City,Rajasthan,City,7.69274109154765,Oct-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8310223774426266
+149,Kerala Backwaters,Kerala,Nature,7.812523860815096,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4234375715824454
+150,Leh Ladakh,Jammu and Kashmir,Adventure,8.863872329774836,Apr-Jun,Year-round,Popular,3.0,2.0,0.0,2.0,Moderate,1.5561753035897576
+151,Taj Mahal,Uttar Pradesh,Historical,9.450175079123191,Nov-Feb,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6362946794053532
+152,Goa Beaches,Goa,Beach,9.000248319359416,Nov-Mar,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.034944899126062
+153,Jaipur City,Rajasthan,City,9.072635913777948,Oct-Mar,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4351620619093177
+154,Kerala Backwaters,Kerala,Nature,9.48479754719289,Sep-Mar,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4363985468095624
+155,Leh Ladakh,Jammu and Kashmir,Adventure,7.933121408559026,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4237993642256772
+156,Taj Mahal,Uttar Pradesh,Historical,8.96758311752555,Nov-Feb,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6348469035205603
+157,Goa Beaches,Goa,Beach,7.607643334351276,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.422822930003054
+158,Jaipur City,Rajasthan,City,8.533439718586166,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4256003191557587
+159,Kerala Backwaters,Kerala,Nature,8.017566360422618,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.424052699081268
+160,Leh Ladakh,Jammu and Kashmir,Adventure,8.0366846404497,Apr-Jun,Year-round,Emerging,3.0,4.0,1.8257418583505538,4.0,Budget,1.7069414276515793
+161,Taj Mahal,Uttar Pradesh,Historical,7.738547101644033,Nov-Feb,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0311597954729157
+162,Goa Beaches,Goa,Beach,7.5447704698175055,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4226343114094526
+163,Jaipur City,Rajasthan,City,8.168780568830128,Oct-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.032450495874474
+164,Kerala Backwaters,Kerala,Nature,7.81836693407545,Sep-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.83139925497021
+165,Leh Ladakh,Jammu and Kashmir,Adventure,7.554650204523121,Apr-Jun,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.030608104781553
+166,Taj Mahal,Uttar Pradesh,Historical,7.967520190746358,Nov-Feb,Year-round,Hidden Gem,1.75,4.0,0.9574271077563381,4.0,Budget,1.2067339343024692
+167,Goa Beaches,Goa,Beach,9.1852981894065,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4275558945682196
+168,Jaipur City,Rajasthan,City,7.634504263080543,Oct-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6308476669572253
+169,Kerala Backwaters,Kerala,Nature,7.686748942635202,Sep-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6310044009958893
+170,Leh Ladakh,Jammu and Kashmir,Adventure,7.848982805962368,Apr-Jun,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.831491102585871
+171,Taj Mahal,Uttar Pradesh,Historical,7.721043377213922,Nov-Feb,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.4311072842996255
+172,Goa Beaches,Goa,Beach,9.486279939461564,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4284588398183848
+173,Jaipur City,Rajasthan,City,7.722252209890692,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4231667566296722
+174,Kerala Backwaters,Kerala,Nature,8.360692114959477,Sep-Mar,Year-round,Emerging,2.3333333333333335,3.0,2.3094010767585034,3.0,Budget,1.374303718014179
+175,Leh Ladakh,Jammu and Kashmir,Adventure,8.866219313947683,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.4265986579418433
+176,Taj Mahal,Uttar Pradesh,Historical,8.165093921735247,Nov-Feb,Year-round,Emerging,2.5,2.0,2.1213203435596424,2.0,Budget,1.3540789683656387
+177,Goa Beaches,Goa,Beach,9.446896779006565,Nov-Mar,Year-round,Top Attraction,2.0,2.0,0.0,2.0,Premium,1.1579243769374528
+178,Jaipur City,Rajasthan,City,8.544351694378236,Oct-Mar,Year-round,Popular,3.5,2.0,2.1213203435596424,2.0,Moderate,1.7552167416835678
+179,Kerala Backwaters,Kerala,Nature,8.299149270820505,Sep-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6328416019804451
+180,Leh Ladakh,Jammu and Kashmir,Adventure,8.091363134430685,Apr-Jun,Year-round,Emerging,4.5,2.0,0.7071067811865476,2.0,Budget,2.1538577760037247
+181,Taj Mahal,Uttar Pradesh,Historical,9.236840653145723,Nov-Feb,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6356546761274208
+182,Goa Beaches,Goa,Beach,8.332585021952074,Nov-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0329419092338399
+183,Jaipur City,Rajasthan,City,8.872498743885908,Oct-Mar,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6345616503996414
+184,Kerala Backwaters,Kerala,Nature,7.816345212118861,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4234490356363567
+185,Leh Ladakh,Jammu and Kashmir,Adventure,8.242881342868039,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4247286440286042
+186,Taj Mahal,Uttar Pradesh,Historical,8.118994457168691,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4243569833715062
+187,Goa Beaches,Goa,Beach,8.843079930515232,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4265292397915459
+188,Jaipur City,Rajasthan,City,8.202625978518912,Oct-Mar,Year-round,Emerging,4.0,2.0,1.4142135623730951,2.0,Budget,1.9541915645359897
+189,Kerala Backwaters,Kerala,Nature,8.649611762507414,Sep-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.233892989455506
+190,Leh Ladakh,Jammu and Kashmir,Adventure,9.150588626183191,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4274517658785497
+191,Taj Mahal,Uttar Pradesh,Historical,8.072256876114661,Nov-Feb,Year-round,Emerging,2.5,2.0,2.1213203435596424,2.0,Budget,1.353800457228777
+192,Goa Beaches,Goa,Beach,8.419905788920559,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4252597173667618
+193,Jaipur City,Rajasthan,City,7.672819736516948,Oct-Mar,Year-round,Hidden Gem,5.0,2.0,0.0,2.0,Budget,2.3526021458099837
+194,Kerala Backwaters,Kerala,Nature,7.764994888805412,Sep-Mar,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.4312391388344001
+195,Leh Ladakh,Jammu and Kashmir,Adventure,9.09297245471366,Apr-Jun,Year-round,Top Attraction,2.5,2.0,2.1213203435596424,2.0,Premium,1.356862603964574
+196,Taj Mahal,Uttar Pradesh,Historical,8.393643741715653,Nov-Feb,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8331250853931307
+197,Goa Beaches,Goa,Beach,9.433855269535494,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4283015658086067
+198,Jaipur City,Rajasthan,City,8.25589320047637,Oct-Mar,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.432711833769413
+199,Kerala Backwaters,Kerala,Nature,9.112874173872637,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427338622521618
+200,Leh Ladakh,Jammu and Kashmir,Adventure,7.77167518972464,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.423315025569174
+201,Taj Mahal,Uttar Pradesh,Historical,7.653509093644129,Nov-Feb,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4229605272809325
+202,Goa Beaches,Goa,Beach,8.24671865641993,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4247401559692598
+203,Jaipur City,Rajasthan,City,9.04284018561824,Oct-Mar,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.0350726747248384
+204,Kerala Backwaters,Kerala,Nature,7.96348370355229,Sep-Mar,Year-round,Hidden Gem,2.5,2.0,0.7071067811865476,2.0,Budget,1.3534741377110897
+205,Leh Ladakh,Jammu and Kashmir,Adventure,8.456754675076878,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4253702640252308
+206,Taj Mahal,Uttar Pradesh,Historical,9.282226276103572,Nov-Feb,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.2357908329962943
+207,Goa Beaches,Goa,Beach,8.560557283746103,Nov-Mar,Year-round,Popular,3.0,2.0,0.0,2.0,Moderate,1.5552653584516714
+208,Jaipur City,Rajasthan,City,9.232664943302456,Oct-Mar,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4356421489978912
+209,Kerala Backwaters,Kerala,Nature,7.650543289908463,Sep-Mar,Year-round,Hidden Gem,2.6666666666666665,3.0,1.5275252316519465,3.0,Budget,1.5055066048723593
+210,Leh Ladakh,Jammu and Kashmir,Adventure,8.277611273067814,Apr-Jun,Year-round,Emerging,1.5,2.0,0.7071067811865476,2.0,Budget,0.9544165204196364
+211,Taj Mahal,Uttar Pradesh,Historical,8.188261257930963,Nov-Feb,Year-round,Emerging,1.5,2.0,0.7071067811865476,2.0,Budget,0.9541484703742259
+212,Goa Beaches,Goa,Beach,9.149424673009314,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427448274019028
+213,Jaipur City,Rajasthan,City,7.971646077114067,Oct-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8318590923993259
+214,Kerala Backwaters,Kerala,Nature,8.37824470003113,Sep-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.033078888268077
+215,Leh Ladakh,Jammu and Kashmir,Adventure,7.584036611041155,Apr-Jun,Year-round,Hidden Gem,4.0,2.0,1.4142135623730951,2.0,Budget,1.9523357964335564
+216,Taj Mahal,Uttar Pradesh,Historical,9.36720219996661,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4281016065999
+217,Goa Beaches,Goa,Beach,9.14476464169103,Nov-Mar,Year-round,Top Attraction,2.5,2.0,2.1213203435596424,2.0,Premium,1.357017980525506
+218,Jaipur City,Rajasthan,City,9.034168574407344,Oct-Mar,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.0350466598912056
+219,Kerala Backwaters,Kerala,Nature,9.23761035529466,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4277128310658842
+220,Leh Ladakh,Jammu and Kashmir,Adventure,8.869504608299943,Apr-Jun,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0345526679928836
+221,Taj Mahal,Uttar Pradesh,Historical,8.719051821566694,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4261571554647001
+222,Goa Beaches,Goa,Beach,8.240843057485613,Nov-Mar,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.4326666833404407
+223,Jaipur City,Rajasthan,City,8.936949815863377,Oct-Mar,Year-round,Popular,2.5,2.0,2.1213203435596424,2.0,Moderate,1.356394536048023
+224,Kerala Backwaters,Kerala,Nature,8.077912596148288,Sep-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.424233737788445
+225,Leh Ladakh,Jammu and Kashmir,Adventure,8.793334588772431,Apr-Jun,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4343241579343011
+226,Taj Mahal,Uttar Pradesh,Historical,7.721478393909334,Nov-Feb,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6311085893497116
+227,Goa Beaches,Goa,Beach,8.882153318904079,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4266464599567124
+228,Jaipur City,Rajasthan,City,8.534275498218907,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4256028264946567
+229,Kerala Backwaters,Kerala,Nature,7.603935909874509,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4228118077296237
+230,Leh Ladakh,Jammu and Kashmir,Adventure,7.619039723254248,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.422857119169763
+231,Taj Mahal,Uttar Pradesh,Historical,7.788256139986302,Nov-Feb,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.2313089225879423
+232,Goa Beaches,Goa,Beach,8.789144742286863,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4263674342268606
+233,Jaipur City,Rajasthan,City,7.782973981393143,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4233489219441795
+234,Kerala Backwaters,Kerala,Nature,9.420960540403104,Sep-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6362070357891929
+235,Leh Ladakh,Jammu and Kashmir,Adventure,8.734064597506109,Apr-Jun,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.634146347960502
+236,Taj Mahal,Uttar Pradesh,Historical,8.42477279242355,Nov-Feb,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2332184725452544
+237,Goa Beaches,Goa,Beach,8.160740974111713,Nov-Mar,Year-round,Emerging,3.0,2.0,0.0,2.0,Budget,1.5540659095227682
+238,Jaipur City,Rajasthan,City,8.127785896913094,Oct-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6323275118587229
+239,Kerala Backwaters,Kerala,Nature,8.757659224866991,Sep-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.2342171318425845
+240,Leh Ladakh,Jammu and Kashmir,Adventure,8.51845220238507,Apr-Jun,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6334995107751389
+241,Taj Mahal,Uttar Pradesh,Historical,7.668642704912232,Nov-Feb,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8309500822827205
+242,Goa Beaches,Goa,Beach,9.164688152340853,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4274940644570226
+243,Jaipur City,Rajasthan,City,9.068862539358657,Oct-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8351507417860597
+244,Kerala Backwaters,Kerala,Nature,9.011521245140806,Sep-Mar,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.834978717903406
+245,Leh Ladakh,Jammu and Kashmir,Adventure,9.459953313645835,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4283798599409376
+246,Taj Mahal,Uttar Pradesh,Historical,8.617311411386703,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4258519342341602
+247,Goa Beaches,Goa,Beach,9.153509849210488,Nov-Mar,Year-round,Top Attraction,2.0,2.0,1.4142135623730951,2.0,Premium,1.1570442161480645
+248,Jaipur City,Rajasthan,City,7.879027092891848,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4236370812786756
+249,Kerala Backwaters,Kerala,Nature,8.89428404394321,Sep-Mar,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.8346270062998133
+250,Leh Ladakh,Jammu and Kashmir,Adventure,9.151090722807776,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4274532721684234
+251,Taj Mahal,Uttar Pradesh,Historical,8.041916757088895,Nov-Feb,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0320699044392503
+252,Goa Beaches,Goa,Beach,8.836459649194737,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4265093789475844
+253,Jaipur City,Rajasthan,City,8.125034098865065,Oct-Mar,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.832319256464579
+254,Kerala Backwaters,Kerala,Nature,9.143167495034348,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4274295024851031
+255,Leh Ladakh,Jammu and Kashmir,Adventure,8.59789687012441,Apr-Jun,Year-round,Popular,3.0,2.0,1.4142135623730951,2.0,Moderate,1.5553773772108064
+256,Taj Mahal,Uttar Pradesh,Historical,8.403655361533389,Nov-Feb,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.833155120252584
+257,Goa Beaches,Goa,Beach,8.284116199094758,Nov-Mar,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.832796502765268
+258,Jaipur City,Rajasthan,City,7.617165381372276,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.422851496144117
+259,Kerala Backwaters,Kerala,Nature,8.382675748307422,Sep-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6330921814129059
+260,Leh Ladakh,Jammu and Kashmir,Adventure,7.917003558302456,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4237510106749074
+261,Taj Mahal,Uttar Pradesh,Historical,8.083688761192684,Nov-Feb,Year-round,Emerging,2.0,2.0,1.4142135623730951,2.0,Budget,1.153834752884011
+262,Goa Beaches,Goa,Beach,7.758783397757156,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4232763501932717
+263,Jaipur City,Rajasthan,City,9.407835019184882,Oct-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6361676592255383
+264,Kerala Backwaters,Kerala,Nature,8.025088514803304,Sep-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8320194197123936
+265,Leh Ladakh,Jammu and Kashmir,Adventure,9.1417227262193,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427425168178658
+266,Taj Mahal,Uttar Pradesh,Historical,8.91877315803813,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4267563194741146
+267,Goa Beaches,Goa,Beach,8.813848708103913,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4264415461243118
+268,Jaipur City,Rajasthan,City,8.015626863328043,Oct-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0319910347579677
+269,Kerala Backwaters,Kerala,Nature,7.588087849193326,Sep-Mar,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.4307084177155638
+270,Leh Ladakh,Jammu and Kashmir,Adventure,8.434929744953086,Apr-Jun,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6332489434028429
+271,Taj Mahal,Uttar Pradesh,Historical,9.23228996203718,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4276968698861117
+272,Goa Beaches,Goa,Beach,7.935193696560209,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4238055810896808
+273,Jaipur City,Rajasthan,City,9.324373462793442,Oct-Mar,Year-round,Top Attraction,2.6666666666666665,3.0,2.0816659994661326,3.0,Premium,1.5105280953910143
+274,Kerala Backwaters,Kerala,Nature,7.777024607207728,Sep-Mar,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.431275227989607
+275,Leh Ladakh,Jammu and Kashmir,Adventure,8.388578037562013,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4251657341126862
+276,Taj Mahal,Uttar Pradesh,Historical,7.591070676890291,Nov-Feb,Year-round,Hidden Gem,4.0,2.0,1.4142135623730951,2.0,Budget,1.952356898631104
+277,Goa Beaches,Goa,Beach,8.694303252963497,Nov-Mar,Year-round,Popular,3.0,2.0,2.8284271247461903,2.0,Moderate,1.5556665963593235
+278,Jaipur City,Rajasthan,City,9.120385789350228,Oct-Mar,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4353053115360346
+279,Kerala Backwaters,Kerala,Nature,7.841206949727761,Sep-Mar,Year-round,Hidden Gem,2.0,2.0,0.0,2.0,Budget,1.1531073074496163
+280,Leh Ladakh,Jammu and Kashmir,Adventure,7.639341731351649,Apr-Jun,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0308621793620385
+281,Taj Mahal,Uttar Pradesh,Historical,9.43086446632471,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4282925933989743
+282,Goa Beaches,Goa,Beach,8.888987617087139,Nov-Mar,Year-round,Popular,3.0,2.0,1.4142135623730951,2.0,Moderate,1.5562506494516946
+283,Jaipur City,Rajasthan,City,8.219242611520933,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.424657727834563
+284,Kerala Backwaters,Kerala,Nature,9.01486652208098,Sep-Mar,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6349887537342266
+285,Leh Ladakh,Jammu and Kashmir,Adventure,8.992391383757372,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.4269771741512722
+286,Taj Mahal,Uttar Pradesh,Historical,9.362001470283614,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.428086004410851
+287,Goa Beaches,Goa,Beach,9.171525350501778,Nov-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8354587302194891
+288,Jaipur City,Rajasthan,City,8.1727822883656,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.424518346865097
+289,Kerala Backwaters,Kerala,Nature,7.844009444111711,Sep-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6314761825003188
+290,Leh Ladakh,Jammu and Kashmir,Adventure,7.934186545996741,Apr-Jun,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.431746713805974
+291,Taj Mahal,Uttar Pradesh,Historical,8.571800372009168,Nov-Feb,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.233659555284011
+292,Goa Beaches,Goa,Beach,8.259128922273915,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4247773867668219
+293,Jaipur City,Rajasthan,City,7.534360802624437,Oct-Mar,Year-round,Hidden Gem,3.0,3.0,1.0,3.0,Budget,1.6384913907438408
+294,Kerala Backwaters,Kerala,Nature,8.553046939554307,Sep-Mar,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4336032949866466
+295,Leh Ladakh,Jammu and Kashmir,Adventure,9.301807912303714,Apr-Jun,Year-round,Top Attraction,3.6666666666666665,3.0,0.5773502691896258,3.0,Premium,1.9104603987395452
+296,Taj Mahal,Uttar Pradesh,Historical,8.01345163279451,Nov-Feb,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.231984509066367
+297,Goa Beaches,Goa,Beach,7.633292996550987,Nov-Mar,Year-round,Hidden Gem,2.5,2.0,0.7071067811865476,2.0,Budget,1.352483565590086
+298,Jaipur City,Rajasthan,City,8.804695152197962,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.426414085456594
+299,Kerala Backwaters,Kerala,Nature,8.966364802325172,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4268990944069757
+300,Leh Ladakh,Jammu and Kashmir,Adventure,7.799198881540521,Apr-Jun,Year-round,Hidden Gem,1.0,2.0,0.0,2.0,Budget,0.7529812832450545
+301,Taj Mahal,Uttar Pradesh,Historical,8.634308850859137,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4259029265525776
+302,Goa Beaches,Goa,Beach,7.64928107708147,Nov-Mar,Year-round,Hidden Gem,3.0,3.0,1.0,3.0,Budget,1.6388361515672119
+303,Jaipur City,Rajasthan,City,9.356796584275807,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4280703897528275
+304,Kerala Backwaters,Kerala,Nature,8.61120828898768,Sep-Mar,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.8337777790349468
+305,Leh Ladakh,Jammu and Kashmir,Adventure,8.111872493591813,Apr-Jun,Year-round,Emerging,2.6666666666666665,3.0,1.1547005383792517,3.0,Budget,1.5068905924834093
+306,Taj Mahal,Uttar Pradesh,Historical,8.4480644643696,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.425344193393109
+307,Goa Beaches,Goa,Beach,8.41986035294417,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4252595810588327
+308,Jaipur City,Rajasthan,City,8.122052827503532,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4243661584825107
+309,Kerala Backwaters,Kerala,Nature,8.122685722841448,Sep-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.032312211336508
+310,Leh Ladakh,Jammu and Kashmir,Adventure,7.862071974081125,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4235862159222434
+311,Taj Mahal,Uttar Pradesh,Historical,8.093952306204637,Nov-Feb,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8322260110865976
+312,Goa Beaches,Goa,Beach,7.923067612961262,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.423769202838884
+313,Jaipur City,Rajasthan,City,8.160495549722198,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4244814866491666
+314,Kerala Backwaters,Kerala,Nature,7.923207093856658,Sep-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8317137754495536
+315,Leh Ladakh,Jammu and Kashmir,Adventure,7.746686189763855,Apr-Jun,Year-round,Hidden Gem,4.5,2.0,0.7071067811865476,2.0,Budget,2.1528237451697243
+316,Taj Mahal,Uttar Pradesh,Historical,8.03328074273946,Nov-Feb,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.632043996396202
+317,Goa Beaches,Goa,Beach,8.61779577553025,Nov-Mar,Year-round,Popular,3.0,2.0,2.8284271247461903,2.0,Moderate,1.5554370739270238
+318,Jaipur City,Rajasthan,City,7.79913244942954,Oct-Mar,Year-round,Hidden Gem,5.0,2.0,0.0,2.0,Budget,2.3529810839487215
+319,Kerala Backwaters,Kerala,Nature,8.84963555984027,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.426548906679521
+320,Leh Ladakh,Jammu and Kashmir,Adventure,8.353685271308148,Apr-Jun,Year-round,Emerging,4.0,2.0,1.4142135623730951,2.0,Budget,1.9546447424143574
+321,Taj Mahal,Uttar Pradesh,Historical,9.146376228258996,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4274391286847772
+322,Goa Beaches,Goa,Beach,7.875971584786738,Nov-Mar,Year-round,Hidden Gem,4.0,2.0,1.4142135623730951,2.0,Budget,1.953211601354793
+323,Jaipur City,Rajasthan,City,8.130587468948864,Oct-Mar,Year-round,Emerging,3.5,2.0,2.1213203435596424,2.0,Budget,1.7539754490072796
+324,Kerala Backwaters,Kerala,Nature,7.662104838922936,Sep-Mar,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.4309304686847526
+325,Leh Ladakh,Jammu and Kashmir,Adventure,7.767402106418881,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4233022063192569
+326,Taj Mahal,Uttar Pradesh,Historical,8.206421939119537,Nov-Feb,Year-round,Emerging,4.0,2.0,1.4142135623730951,2.0,Budget,1.9542029524177915
+327,Goa Beaches,Goa,Beach,8.382390141309063,Nov-Mar,Year-round,Emerging,2.5,2.0,2.1213203435596424,2.0,Budget,1.3547308570243601
+328,Jaipur City,Rajasthan,City,8.631489840212462,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4258944695206375
+329,Kerala Backwaters,Kerala,Nature,8.214897900478032,Sep-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4246446937014343
+330,Leh Ladakh,Jammu and Kashmir,Adventure,7.63573528781037,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4229072058634313
+331,Taj Mahal,Uttar Pradesh,Historical,9.082935360672389,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4272488060820172
+332,Goa Beaches,Goa,Beach,8.942874660350423,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4268286239810515
+333,Jaipur City,Rajasthan,City,7.632343966795443,Oct-Mar,Year-round,Hidden Gem,3.0,2.0,2.8284271247461903,2.0,Budget,1.5524807185008194
+334,Kerala Backwaters,Kerala,Nature,8.710665370439624,Sep-Mar,Year-round,Popular,2.5,2.0,2.1213203435596424,2.0,Moderate,1.3557156827117518
+335,Leh Ladakh,Jammu and Kashmir,Adventure,9.310237104496576,Apr-Jun,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8358748654814734
+336,Taj Mahal,Uttar Pradesh,Historical,9.26879230848542,Nov-Feb,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.23575053109344
+337,Goa Beaches,Goa,Beach,8.576362703436722,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4257290881103104
+338,Jaipur City,Rajasthan,City,8.139654822360953,Oct-Mar,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2323631186350665
+339,Kerala Backwaters,Kerala,Nature,8.568613099478302,Sep-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.2336499934664187
+340,Leh Ladakh,Jammu and Kashmir,Adventure,9.051578730223218,Apr-Jun,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8350988903586534
+341,Taj Mahal,Uttar Pradesh,Historical,8.408281456588794,Nov-Feb,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0331689985377501
+342,Goa Beaches,Goa,Beach,9.379923842860553,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4281397715285817
+343,Jaipur City,Rajasthan,City,7.873481445510227,Oct-Mar,Year-round,Hidden Gem,3.6666666666666665,3.0,0.5773502691896258,3.0,Budget,1.9061754193391647
+344,Kerala Backwaters,Kerala,Nature,9.162324692301334,Sep-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6354311282448877
+345,Leh Ladakh,Jammu and Kashmir,Adventure,9.315488065792977,Apr-Jun,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8358906183653627
+346,Taj Mahal,Uttar Pradesh,Historical,8.969950615777162,Nov-Feb,Year-round,Popular,3.6666666666666665,3.0,1.1547005383792515,3.0,Moderate,1.9094648268499654
+347,Goa Beaches,Goa,Beach,7.920959927553192,Nov-Mar,Year-round,Hidden Gem,2.0,2.0,1.4142135623730951,2.0,Budget,1.1533465663830926
+348,Jaipur City,Rajasthan,City,8.013552975522641,Oct-Mar,Year-round,Hidden Gem,3.3333333333333335,3.0,2.0816659994661326,3.0,Budget,1.7732623005958685
+349,Kerala Backwaters,Kerala,Nature,8.18621530520951,Sep-Mar,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.232502800083612
+350,Leh Ladakh,Jammu and Kashmir,Adventure,7.950916521545693,Apr-Jun,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8317969037326207
+351,Taj Mahal,Uttar Pradesh,Historical,8.488999182063221,Nov-Feb,Year-round,Emerging,1.6666666666666667,3.0,0.5773502691896257,3.0,Budget,1.1080219725488236
+352,Goa Beaches,Goa,Beach,7.946596794608405,Nov-Mar,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.431783944551809
+353,Jaipur City,Rajasthan,City,9.29747082018926,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4278924124605679
+354,Kerala Backwaters,Kerala,Nature,7.760694703272286,Sep-Mar,Year-round,Hidden Gem,3.0,2.0,2.8284271247461903,2.0,Budget,1.55286577071025
+355,Leh Ladakh,Jammu and Kashmir,Adventure,8.057546789498799,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4241726403684964
+356,Taj Mahal,Uttar Pradesh,Historical,8.606176983767309,Nov-Feb,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0337626851192856
+357,Goa Beaches,Goa,Beach,8.314502184896275,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.424943506554689
+358,Jaipur City,Rajasthan,City,7.738761292909418,Oct-Mar,Year-round,Hidden Gem,2.0,2.0,1.4142135623730951,2.0,Budget,1.1527999704791612
+359,Kerala Backwaters,Kerala,Nature,7.832207353651939,Sep-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8314407762289395
+360,Leh Ladakh,Jammu and Kashmir,Adventure,8.117132891287836,Apr-Jun,Year-round,Emerging,2.0,2.0,1.4142135623730951,2.0,Budget,1.1539350852742964
+361,Taj Mahal,Uttar Pradesh,Historical,8.134764369094412,Nov-Feb,Year-round,Emerging,3.0,2.0,1.4142135623730951,2.0,Budget,1.5539879797077163
+362,Goa Beaches,Goa,Beach,8.908499371844,Nov-Mar,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6346696522835157
+363,Jaipur City,Rajasthan,City,8.857005319987184,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4265710159599616
+364,Kerala Backwaters,Kerala,Nature,8.029543990563425,Sep-Mar,Year-round,Hidden Gem,3.0,2.0,1.4142135623730951,2.0,Budget,1.5536723185721233
+365,Leh Ladakh,Jammu and Kashmir,Adventure,8.878382688353271,Apr-Jun,Year-round,Popular,3.0,2.0,2.8284271247461903,2.0,Moderate,1.5562188346654928
+366,Taj Mahal,Uttar Pradesh,Historical,9.266030293290664,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4277980908798722
+367,Goa Beaches,Goa,Beach,8.445148546462805,Nov-Mar,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2332795998073722
+368,Jaipur City,Rajasthan,City,8.00825181627746,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4240247554488326
+369,Kerala Backwaters,Kerala,Nature,7.526677667953975,Sep-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0305241871718456
+370,Leh Ladakh,Jammu and Kashmir,Adventure,8.35737821975577,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4250721346592674
+371,Taj Mahal,Uttar Pradesh,Historical,8.32089647558579,Nov-Feb,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.232906843594741
+372,Goa Beaches,Goa,Beach,7.824610910350504,Nov-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6314179868990352
+373,Jaipur City,Rajasthan,City,9.276956975859664,Oct-Mar,Year-round,Top Attraction,4.5,2.0,0.7071067811865476,2.0,Premium,2.157414557528012
+374,Kerala Backwaters,Kerala,Nature,9.27098132194643,Sep-Mar,Year-round,Top Attraction,2.0,2.0,1.4142135623730951,2.0,Premium,1.1573966305662722
+375,Leh Ladakh,Jammu and Kashmir,Adventure,8.44823537077092,Apr-Jun,Year-round,Emerging,2.0,2.0,1.4142135623730951,2.0,Budget,1.1549283927127456
+376,Taj Mahal,Uttar Pradesh,Historical,9.483879397405463,Nov-Feb,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6363957923602
+377,Goa Beaches,Goa,Beach,7.92228615054826,Nov-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6317110126196284
+378,Jaipur City,Rajasthan,City,9.36474701059834,Oct-Mar,Year-round,Top Attraction,4.5,2.0,0.7071067811865476,2.0,Premium,2.1576779276322275
+379,Kerala Backwaters,Kerala,Nature,7.710901822596214,Sep-Mar,Year-round,Hidden Gem,4.5,2.0,0.7071067811865476,2.0,Budget,2.1527163920682213
+380,Leh Ladakh,Jammu and Kashmir,Adventure,8.658172608842527,Apr-Jun,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6339186719945112
+381,Taj Mahal,Uttar Pradesh,Historical,9.30052503102598,Nov-Feb,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.0358457292610617
+382,Goa Beaches,Goa,Beach,8.487140997084705,Nov-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6334055771592377
+383,Jaipur City,Rajasthan,City,8.70695511642636,Oct-Mar,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4340650195172628
+384,Kerala Backwaters,Kerala,Nature,8.63256261554465,Sep-Mar,Year-round,Popular,3.0,2.0,0.0,2.0,Moderate,1.555481374447067
+385,Leh Ladakh,Jammu and Kashmir,Adventure,8.051203902011398,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4241536117060343
+386,Taj Mahal,Uttar Pradesh,Historical,9.46333200145262,Nov-Feb,Year-round,Top Attraction,3.3333333333333335,3.0,0.5773502691896258,3.0,Premium,1.7776116376736586
+387,Goa Beaches,Goa,Beach,8.763403696969464,Nov-Mar,Year-round,Popular,4.333333333333333,3.0,0.5773502691896258,3.0,Moderate,2.175511852760209
+388,Jaipur City,Rajasthan,City,9.151665484353009,Oct-Mar,Year-round,Top Attraction,3.5,2.0,2.1213203435596424,2.0,Premium,1.757038683053492
+389,Kerala Backwaters,Kerala,Nature,9.40914617773771,Sep-Mar,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4361715927011969
+390,Leh Ladakh,Jammu and Kashmir,Adventure,8.854728503825909,Apr-Jun,Year-round,Popular,2.5,2.0,0.7071067811865476,2.0,Moderate,1.3561478721119107
+391,Taj Mahal,Uttar Pradesh,Historical,8.937176476917816,Nov-Feb,Year-round,Popular,3.6666666666666665,3.0,1.1547005383792517,3.0,Moderate,1.9093665044333874
+392,Goa Beaches,Goa,Beach,8.65903274744209,Nov-Mar,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6339212524103099
+393,Jaipur City,Rajasthan,City,8.429521721872453,Oct-Mar,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.233232719333601
+394,Kerala Backwaters,Kerala,Nature,8.884525796968724,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4266535773909064
+395,Leh Ladakh,Jammu and Kashmir,Adventure,8.879069809066051,Apr-Jun,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4345813635951818
+396,Taj Mahal,Uttar Pradesh,Historical,9.113864702192004,Nov-Feb,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.0352857482745597
+397,Goa Beaches,Goa,Beach,8.739477476072606,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4262184324282179
+398,Jaipur City,Rajasthan,City,8.33295003386784,Oct-Mar,Year-round,Emerging,3.0,2.0,2.8284271247461903,2.0,Budget,1.5545825367020365
+399,Kerala Backwaters,Kerala,Nature,8.376325562448297,Sep-Mar,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2330731308553284
+400,Leh Ladakh,Jammu and Kashmir,Adventure,9.120122756229376,Apr-Jun,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.235304522436672
+401,Taj Mahal,Uttar Pradesh,Historical,8.033376557417458,Nov-Feb,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.432044283840236
+402,Goa Beaches,Goa,Beach,8.050919516333472,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4241527585490006
+403,Jaipur City,Rajasthan,City,8.578600554982318,Oct-Mar,Year-round,Popular,2.0,2.0,1.4142135623730951,2.0,Moderate,1.15531948826538
+404,Kerala Backwaters,Kerala,Nature,9.28938699420442,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4278681609826134
+405,Leh Ladakh,Jammu and Kashmir,Adventure,8.266309519533893,Apr-Jun,Year-round,Emerging,4.0,2.0,1.4142135623730951,2.0,Budget,1.9543826151590347
+406,Taj Mahal,Uttar Pradesh,Historical,8.13824601276976,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4244147380383094
+407,Goa Beaches,Goa,Beach,8.685967653034197,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4260579029591027
+408,Jaipur City,Rajasthan,City,7.789753610332566,Oct-Mar,Year-round,Hidden Gem,4.0,3.0,1.0,3.0,Budget,2.039257569166965
+409,Kerala Backwaters,Kerala,Nature,7.695324251011531,Sep-Mar,Year-round,Hidden Gem,3.6666666666666665,3.0,0.5773502691896258,3.0,Budget,1.9056409477556686
+410,Leh Ladakh,Jammu and Kashmir,Adventure,9.056239628784924,Apr-Jun,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6351128730543384
+411,Taj Mahal,Uttar Pradesh,Historical,8.284126727805766,Nov-Feb,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6327965343514009
+412,Goa Beaches,Goa,Beach,8.056589740959444,Nov-Mar,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.832113923390862
+413,Jaipur City,Rajasthan,City,9.164900243709798,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4274947007311296
+414,Kerala Backwaters,Kerala,Nature,8.41852933200488,Sep-Mar,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.4331997421639984
+415,Leh Ladakh,Jammu and Kashmir,Adventure,8.650437608917823,Apr-Jun,Year-round,Popular,2.5,4.0,1.7320508075688772,4.0,Moderate,1.5087826865569836
+416,Taj Mahal,Uttar Pradesh,Historical,9.327014780224204,Nov-Feb,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.235925198508656
+417,Goa Beaches,Goa,Beach,7.799317152894507,Nov-Mar,Year-round,Hidden Gem,4.0,2.0,0.0,2.0,Budget,1.9529816380591165
+418,Jaipur City,Rajasthan,City,8.571570122764205,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4257147103682928
+419,Kerala Backwaters,Kerala,Nature,8.165654259803166,Sep-Mar,Year-round,Emerging,3.3333333333333335,3.0,1.1547005383792515,3.0,Budget,1.7737186044487103
+420,Leh Ladakh,Jammu and Kashmir,Adventure,9.333012518480867,Apr-Jun,Year-round,Top Attraction,3.0,2.0,2.8284271247461903,2.0,Premium,1.5575827241558757
+421,Taj Mahal,Uttar Pradesh,Historical,8.912423770627766,Nov-Feb,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.234681425479867
+422,Goa Beaches,Goa,Beach,7.9629327439636866,Nov-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6318329523998747
+423,Jaipur City,Rajasthan,City,8.427042499188698,Oct-Mar,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.43322528166555
+424,Kerala Backwaters,Kerala,Nature,8.016517304482331,Sep-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0319937060814306
+425,Leh Ladakh,Jammu and Kashmir,Adventure,7.677908499077882,Apr-Jun,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6309778796652172
+426,Taj Mahal,Uttar Pradesh,Historical,7.742346085788473,Nov-Feb,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.031171192425349
+427,Goa Beaches,Goa,Beach,8.049399731297333,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4241481991938922
+428,Jaipur City,Rajasthan,City,9.229663135604667,Oct-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8356331435747977
+429,Kerala Backwaters,Kerala,Nature,8.186484600129791,Sep-Mar,Year-round,Emerging,3.5,2.0,0.7071067811865476,2.0,Budget,1.7541431404008223
+430,Leh Ladakh,Jammu and Kashmir,Adventure,7.528160810117106,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4225844824303515
+431,Taj Mahal,Uttar Pradesh,Historical,8.45973062297419,Nov-Feb,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0333233460369062
+432,Goa Beaches,Goa,Beach,8.839626409332572,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.426518879227998
+433,Jaipur City,Rajasthan,City,8.683728793384567,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.426051186380154
+434,Kerala Backwaters,Kerala,Nature,8.707253748746416,Sep-Mar,Year-round,Popular,3.0,2.0,1.4142135623730951,2.0,Moderate,1.5557054478466723
+435,Leh Ladakh,Jammu and Kashmir,Adventure,8.316001911390781,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4249480057341726
+436,Taj Mahal,Uttar Pradesh,Historical,7.728114076451941,Nov-Feb,Year-round,Hidden Gem,3.3333333333333335,3.0,1.5275252316519468,3.0,Budget,1.7724059838986566
+437,Goa Beaches,Goa,Beach,7.987106149468621,Nov-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6319054726163895
+438,Jaipur City,Rajasthan,City,8.465558405614521,Oct-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0333408293848272
+439,Kerala Backwaters,Kerala,Nature,8.208388595361088,Sep-Mar,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.432569319954067
+440,Leh Ladakh,Jammu and Kashmir,Adventure,8.224548104826292,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.424673644314479
+441,Taj Mahal,Uttar Pradesh,Historical,7.865953290683349,Nov-Feb,Year-round,Hidden Gem,1.5,2.0,0.7071067811865476,2.0,Budget,0.9531815464724831
+442,Goa Beaches,Goa,Beach,8.459808776651839,Nov-Mar,Year-round,Emerging,3.5,2.0,0.7071067811865476,2.0,Budget,1.7549631129303886
+443,Jaipur City,Rajasthan,City,9.225300608752708,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4276759018262584
+444,Kerala Backwaters,Kerala,Nature,8.308543307938688,Sep-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4249256299238162
+445,Leh Ladakh,Jammu and Kashmir,Adventure,7.845173227424654,Apr-Jun,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6314796738502576
+446,Taj Mahal,Uttar Pradesh,Historical,8.09180966649682,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4242754289994906
+447,Goa Beaches,Goa,Beach,8.888745118422108,Nov-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.23461038952325
+448,Jaipur City,Rajasthan,City,8.531272858594322,Oct-Mar,Year-round,Popular,3.0,3.0,1.7320508075688772,3.0,Moderate,1.6414821269117503
+449,Kerala Backwaters,Kerala,Nature,7.900632192964087,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4237018965788923
+450,Leh Ladakh,Jammu and Kashmir,Adventure,8.390879272653267,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4251726378179599
+451,Taj Mahal,Uttar Pradesh,Historical,7.948981237202266,Nov-Feb,Year-round,Hidden Gem,4.333333333333333,3.0,1.1547005383792517,3.0,Budget,2.1730685853809075
+452,Goa Beaches,Goa,Beach,7.710238850545792,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4231307165516376
+453,Jaipur City,Rajasthan,City,8.426026820095585,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.425278080460287
+454,Kerala Backwaters,Kerala,Nature,8.250765565651493,Sep-Mar,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.232696450864938
+455,Leh Ladakh,Jammu and Kashmir,Adventure,7.889359194048391,Apr-Jun,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.431612231750129
+456,Taj Mahal,Uttar Pradesh,Historical,7.509850241166378,Nov-Feb,Year-round,Hidden Gem,2.75,4.0,0.9574271077563381,4.0,Budget,1.6053609244537292
+457,Goa Beaches,Goa,Beach,9.348468751483985,Nov-Mar,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.2359895604224356
+458,Jaipur City,Rajasthan,City,9.04884504620765,Oct-Mar,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.0350906893066065
+459,Kerala Backwaters,Kerala,Nature,8.231034030468606,Sep-Mar,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2326372562593892
+460,Leh Ladakh,Jammu and Kashmir,Adventure,8.25449220912482,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4247634766273747
+461,Taj Mahal,Uttar Pradesh,Historical,8.54049334743632,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.425621480042309
+462,Goa Beaches,Goa,Beach,7.625998220803341,Nov-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8308221488303937
+463,Jaipur City,Rajasthan,City,8.981270231292,Oct-Mar,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0348879648618596
+464,Kerala Backwaters,Kerala,Nature,8.555128223838274,Sep-Mar,Year-round,Popular,2.5,2.0,0.7071067811865476,2.0,Moderate,1.3552490712719478
+465,Leh Ladakh,Jammu and Kashmir,Adventure,7.761543597697145,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4232846307930915
+466,Taj Mahal,Uttar Pradesh,Historical,8.25089870590044,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4247526961177015
+467,Goa Beaches,Goa,Beach,8.025486409324685,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4240764592279742
+468,Jaipur City,Rajasthan,City,9.47910151784028,Oct-Mar,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4363814587215047
+469,Kerala Backwaters,Kerala,Nature,8.661784765251305,Sep-Mar,Year-round,Popular,4.0,2.0,0.0,2.0,Moderate,1.955569040896187
+470,Leh Ladakh,Jammu and Kashmir,Adventure,8.93195095213289,Apr-Jun,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0347400070243824
+471,Taj Mahal,Uttar Pradesh,Historical,9.431015219195524,Nov-Feb,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8362371998255702
+472,Goa Beaches,Goa,Beach,9.276219098262825,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4278286572947887
+473,Jaipur City,Rajasthan,City,8.138557734045776,Oct-Mar,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.832359827370121
+474,Kerala Backwaters,Kerala,Nature,7.780303814451599,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4233409114433548
+475,Leh Ladakh,Jammu and Kashmir,Adventure,8.439314463538002,Apr-Jun,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6332620975585976
+476,Taj Mahal,Uttar Pradesh,Historical,8.59393285581819,Nov-Feb,Year-round,Popular,3.5,2.0,0.7071067811865476,2.0,Moderate,1.7553654851678877
+477,Goa Beaches,Goa,Beach,9.061411819218064,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4271842354576543
+478,Jaipur City,Rajasthan,City,8.746027540435104,Oct-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.2341822367892887
+479,Kerala Backwaters,Kerala,Nature,8.432522163463709,Sep-Mar,Year-round,Emerging,3.5,2.0,2.1213203435596424,2.0,Budget,1.7548812530908242
+480,Leh Ladakh,Jammu and Kashmir,Adventure,9.183226466821637,Apr-Jun,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6354938335684486
+481,Taj Mahal,Uttar Pradesh,Historical,8.347502107586056,Nov-Feb,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8329866604907419
+482,Goa Beaches,Goa,Beach,7.948762856954323,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4238462885708632
+483,Jaipur City,Rajasthan,City,9.187132541918034,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4275613976257542
+484,Kerala Backwaters,Kerala,Nature,8.361380335928295,Sep-Mar,Year-round,Emerging,2.5,2.0,2.1213203435596424,2.0,Budget,1.3546678276082178
+485,Leh Ladakh,Jammu and Kashmir,Adventure,9.307482015375824,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4279224460461275
+486,Taj Mahal,Uttar Pradesh,Historical,9.2500304022815,Nov-Feb,Year-round,Top Attraction,4.333333333333333,3.0,1.1547005383792517,3.0,Premium,2.176971732876145
+487,Goa Beaches,Goa,Beach,8.062331360639273,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4241869940819178
+488,Jaipur City,Rajasthan,City,8.654607164170207,Oct-Mar,Year-round,Popular,3.5,2.0,0.7071067811865476,2.0,Moderate,1.7555475080929437
+489,Kerala Backwaters,Kerala,Nature,8.63372498272289,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4259011749481687
+490,Leh Ladakh,Jammu and Kashmir,Adventure,8.387349596378451,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4251620487891354
+491,Taj Mahal,Uttar Pradesh,Historical,8.20803233304684,Nov-Feb,Year-round,Emerging,3.0,2.0,2.8284271247461903,2.0,Budget,1.5542077835995736
+492,Goa Beaches,Goa,Beach,8.1282869592547,Nov-Mar,Year-round,Emerging,3.3333333333333335,3.0,1.5275252316519468,3.0,Budget,1.7736065025470649
+493,Jaipur City,Rajasthan,City,8.878936494411294,Oct-Mar,Year-round,Popular,3.6666666666666665,3.0,1.5275252316519465,3.0,Moderate,1.909191784485868
+494,Kerala Backwaters,Kerala,Nature,8.937812540340415,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4268134376210213
+495,Leh Ladakh,Jammu and Kashmir,Adventure,8.414265880762033,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4252427976422863
+496,Taj Mahal,Uttar Pradesh,Historical,8.265509612154226,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4247965288364628
+497,Goa Beaches,Goa,Beach,8.698828827904826,Nov-Mar,Year-round,Popular,4.0,2.0,1.4142135623730951,2.0,Moderate,1.9556801730841475
+498,Jaipur City,Rajasthan,City,9.324413281531497,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4279732398445946
+499,Kerala Backwaters,Kerala,Nature,9.26496476298098,Sep-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6357390484569265
+500,Leh Ladakh,Jammu and Kashmir,Adventure,8.940107797681996,Apr-Jun,Year-round,Popular,4.5,2.0,0.7071067811865476,2.0,Moderate,2.1564040099934787
+501,Taj Mahal,Uttar Pradesh,Historical,8.43779797890401,Nov-Feb,Year-round,Emerging,3.0,2.0,2.8284271247461903,2.0,Budget,1.5548970805371451
+502,Goa Beaches,Goa,Beach,9.314545773276503,Nov-Mar,Year-round,Top Attraction,5.0,2.0,0.0,2.0,Premium,2.3575273239202623
+503,Jaipur City,Rajasthan,City,8.918823544059974,Oct-Mar,Year-round,Popular,3.0,2.0,2.8284271247461903,2.0,Moderate,1.556340157232613
+504,Kerala Backwaters,Kerala,Nature,7.992592263408194,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4239777767902246
+505,Leh Ladakh,Jammu and Kashmir,Adventure,8.07869796905618,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4242360939071688
+506,Taj Mahal,Uttar Pradesh,Historical,8.510029536153398,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4255300886084603
+507,Goa Beaches,Goa,Beach,8.240547501092525,Nov-Mar,Year-round,Emerging,3.6666666666666665,3.0,1.1547005383792515,3.0,Budget,1.9072766175059117
+508,Jaipur City,Rajasthan,City,9.43596338151704,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4283078901445512
+509,Kerala Backwaters,Kerala,Nature,9.25204552164384,Sep-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8357002907329152
+510,Leh Ladakh,Jammu and Kashmir,Adventure,9.380186804036049,Apr-Jun,Year-round,Top Attraction,3.0,3.0,2.0,3.0,Premium,1.6440288687480755
+511,Taj Mahal,Uttar Pradesh,Historical,9.219575248565713,Nov-Feb,Year-round,Top Attraction,5.0,2.0,0.0,2.0,Premium,2.35724241234613
+512,Goa Beaches,Goa,Beach,9.222486404593646,Nov-Mar,Year-round,Top Attraction,3.5,2.0,0.7071067811865476,2.0,Premium,1.757251145814214
+513,Jaipur City,Rajasthan,City,9.319083493307607,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427957250479923
+514,Kerala Backwaters,Kerala,Nature,7.980635862122308,Sep-Mar,Year-round,Hidden Gem,2.3333333333333335,3.0,1.1547005383792515,3.0,Budget,1.3731635492556675
+515,Leh Ladakh,Jammu and Kashmir,Adventure,9.481318666573411,Apr-Jun,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.836388110167704
+516,Taj Mahal,Uttar Pradesh,Historical,7.890656667652207,Nov-Feb,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8316161241709403
+517,Goa Beaches,Goa,Beach,8.715019439382655,Nov-Mar,Year-round,Popular,3.5,2.0,0.7071067811865476,2.0,Moderate,1.755728744918581
+518,Jaipur City,Rajasthan,City,8.92790148381448,Oct-Mar,Year-round,Popular,4.5,2.0,0.7071067811865476,2.0,Moderate,2.156367391051876
+519,Kerala Backwaters,Kerala,Nature,7.772507901461253,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4233175237043838
+520,Leh Ladakh,Jammu and Kashmir,Adventure,8.521876495404149,Apr-Jun,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.233509783654196
+521,Taj Mahal,Uttar Pradesh,Historical,9.073609022110247,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427220827066331
+522,Goa Beaches,Goa,Beach,8.486706784627046,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4254601203538813
+523,Jaipur City,Rajasthan,City,8.998307150645953,Oct-Mar,Year-round,Popular,1.0,3.0,0.0,3.0,Moderate,0.842883229787905
+524,Kerala Backwaters,Kerala,Nature,8.207456170247866,Sep-Mar,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8325665226787273
+525,Leh Ladakh,Jammu and Kashmir,Adventure,8.090624068994547,Apr-Jun,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8322160263749674
+526,Taj Mahal,Uttar Pradesh,Historical,8.798076955318615,Nov-Feb,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.8343383850339396
+527,Goa Beaches,Goa,Beach,9.240920636796004,Nov-Mar,Year-round,Top Attraction,1.5,2.0,0.7071067811865476,2.0,Premium,0.957306448510821
+528,Jaipur City,Rajasthan,City,8.564171557585537,Oct-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.2336366688407403
+529,Kerala Backwaters,Kerala,Nature,7.726465986904015,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4231793979607121
+530,Leh Ladakh,Jammu and Kashmir,Adventure,9.135320166568894,Apr-Jun,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4353501146676906
+531,Taj Mahal,Uttar Pradesh,Historical,7.819012402589374,Nov-Feb,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0314011913757517
+532,Goa Beaches,Goa,Beach,8.988127174492362,Nov-Mar,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6349085356914608
+533,Jaipur City,Rajasthan,City,7.692409735196847,Oct-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8310213833735742
+534,Kerala Backwaters,Kerala,Nature,8.181851282648088,Sep-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4245455538479443
+535,Leh Ladakh,Jammu and Kashmir,Adventure,9.177624039641806,Apr-Jun,Year-round,Top Attraction,2.0,2.0,0.0,2.0,Premium,1.1571165587193584
+536,Taj Mahal,Uttar Pradesh,Historical,9.05646084632939,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4271693825389884
+537,Goa Beaches,Goa,Beach,9.187047298341549,Nov-Mar,Year-round,Top Attraction,2.5,2.0,2.1213203435596424,2.0,Premium,1.3571448284954575
+538,Jaipur City,Rajasthan,City,8.61290957770994,Oct-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.2337828829011133
+539,Kerala Backwaters,Kerala,Nature,8.945958184370141,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4268378745531105
+540,Leh Ladakh,Jammu and Kashmir,Adventure,8.310861660543809,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4249325849816317
+541,Taj Mahal,Uttar Pradesh,Historical,8.299700198889736,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4248991005966694
+542,Goa Beaches,Goa,Beach,8.682101749793983,Nov-Mar,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4339904594173658
+543,Jaipur City,Rajasthan,City,8.997155930746766,Oct-Mar,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.834935621960224
+544,Kerala Backwaters,Kerala,Nature,8.517940732286046,Sep-Mar,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0334979763648418
+545,Leh Ladakh,Jammu and Kashmir,Adventure,7.661289356429886,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.42298386806929
+546,Taj Mahal,Uttar Pradesh,Historical,8.99406731089834,Nov-Feb,Year-round,Popular,3.5,2.0,0.7071067811865476,2.0,Moderate,1.7565658885331281
+547,Goa Beaches,Goa,Beach,8.645510418904573,Nov-Mar,Year-round,Popular,2.25,4.0,0.5,4.0,Moderate,1.4087679049869437
+548,Jaipur City,Rajasthan,City,8.086168021757981,Oct-Mar,Year-round,Emerging,4.0,2.0,0.0,2.0,Budget,1.9538421906657069
+549,Kerala Backwaters,Kerala,Nature,9.251772000884309,Sep-Mar,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4356994701706367
+550,Leh Ladakh,Jammu and Kashmir,Adventure,8.747376070548807,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.4262421282116466
+551,Taj Mahal,Uttar Pradesh,Historical,8.374491709395679,Nov-Feb,Year-round,Emerging,1.6666666666666667,3.0,0.5773502691896257,3.0,Budget,1.107678450130821
+552,Goa Beaches,Goa,Beach,8.564998979974378,Nov-Mar,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.8336391511079069
+553,Jaipur City,Rajasthan,City,9.40131781831434,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.428203953454943
+554,Kerala Backwaters,Kerala,Nature,9.025943210875612,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427077829632627
+555,Leh Ladakh,Jammu and Kashmir,Adventure,9.04217651721199,Apr-Jun,Year-round,Top Attraction,4.333333333333333,3.0,1.1547005383792515,3.0,Premium,2.1763481712209365
+556,Taj Mahal,Uttar Pradesh,Historical,7.703776810764232,Nov-Feb,Year-round,Hidden Gem,1.0,2.0,0.0,2.0,Budget,0.7526950170327257
+557,Goa Beaches,Goa,Beach,8.672185130404245,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.426016555391213
+558,Jaipur City,Rajasthan,City,9.113897123897514,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4273416913716928
+559,Kerala Backwaters,Kerala,Nature,8.65327152196819,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4259598145659047
+560,Leh Ladakh,Jammu and Kashmir,Adventure,9.252519204291165,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4277575576128736
+561,Taj Mahal,Uttar Pradesh,Historical,9.456850743680612,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.428370552231042
+562,Goa Beaches,Goa,Beach,9.310527198750878,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4279315815962528
+563,Jaipur City,Rajasthan,City,7.952541968997334,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4238576259069922
+564,Kerala Backwaters,Kerala,Nature,8.870130228380821,Sep-Mar,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6345545448531261
+565,Leh Ladakh,Jammu and Kashmir,Adventure,8.47880343825541,Apr-Jun,Year-round,Emerging,2.5,2.0,2.1213203435596424,2.0,Budget,1.355020096915199
+566,Taj Mahal,Uttar Pradesh,Historical,7.567818752588276,Nov-Feb,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.422703456257765
+567,Goa Beaches,Goa,Beach,9.187761000514808,Nov-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8355074371695281
+568,Jaipur City,Rajasthan,City,8.248703528475824,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4247461105854275
+569,Kerala Backwaters,Kerala,Nature,9.000157281763427,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4270004718452904
+570,Leh Ladakh,Jammu and Kashmir,Adventure,7.748348707167752,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4232450461215034
+571,Taj Mahal,Uttar Pradesh,Historical,9.193226492177772,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4275796794765334
+572,Goa Beaches,Goa,Beach,8.29243960608129,Nov-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0328214729862275
+573,Jaipur City,Rajasthan,City,9.155604744108183,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4274668142323246
+574,Kerala Backwaters,Kerala,Nature,7.553270853318885,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4226598125599568
+575,Leh Ladakh,Jammu and Kashmir,Adventure,8.419067682490505,Apr-Jun,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.4332013572154554
+576,Taj Mahal,Uttar Pradesh,Historical,8.450301921040447,Nov-Feb,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.233295059931105
+577,Goa Beaches,Goa,Beach,8.207209291443316,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.42462162787433
+578,Jaipur City,Rajasthan,City,8.205781816540815,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4246173454496225
+579,Kerala Backwaters,Kerala,Nature,8.598752880266343,Sep-Mar,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4337404128087827
+580,Leh Ladakh,Jammu and Kashmir,Adventure,8.998305590476127,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.4269949167714284
+581,Taj Mahal,Uttar Pradesh,Historical,9.01567151822585,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4270470145546776
+582,Goa Beaches,Goa,Beach,7.779308047020037,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4233379241410602
+583,Jaipur City,Rajasthan,City,8.45671070203574,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4253701321061074
+584,Kerala Backwaters,Kerala,Nature,7.877125609308293,Sep-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0315755309959085
+585,Leh Ladakh,Jammu and Kashmir,Adventure,8.937350084907646,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.426812050254723
+586,Taj Mahal,Uttar Pradesh,Historical,7.569722658093775,Nov-Feb,Year-round,Hidden Gem,3.0,2.0,2.8284271247461903,2.0,Budget,1.5522928545747143
+587,Goa Beaches,Goa,Beach,7.768523623167793,Nov-Mar,Year-round,Hidden Gem,2.0,3.0,1.0,3.0,Budget,1.2391938792054706
+588,Jaipur City,Rajasthan,City,9.180141735009256,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4275404252050279
+589,Kerala Backwaters,Kerala,Nature,9.427997305985516,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4282839919179566
+590,Leh Ladakh,Jammu and Kashmir,Adventure,8.17109010854659,Apr-Jun,Year-round,Emerging,3.0,2.0,1.4142135623730951,2.0,Budget,1.554096956926073
+591,Taj Mahal,Uttar Pradesh,Historical,8.148297385049217,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4244448921551478
+592,Goa Beaches,Goa,Beach,9.168100701200414,Nov-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6354484562715849
+593,Jaipur City,Rajasthan,City,9.468508271221934,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.428405524813666
+594,Kerala Backwaters,Kerala,Nature,8.618563706489919,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.42585569111947
+595,Leh Ladakh,Jammu and Kashmir,Adventure,9.446618127599066,Apr-Jun,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.036284008550781
+596,Taj Mahal,Uttar Pradesh,Historical,7.865548979182885,Nov-Feb,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.4315408011055324
+597,Goa Beaches,Goa,Beach,7.735247906037738,Nov-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.831149897886097
+598,Jaipur City,Rajasthan,City,7.754720778868718,Oct-Mar,Year-round,Hidden Gem,3.2,5.0,1.6431676725154984,5.0,Budget,1.840792003105023
+599,Kerala Backwaters,Kerala,Nature,9.463041121922352,Sep-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6363332775337507
+600,Leh Ladakh,Jammu and Kashmir,Adventure,9.390934664335951,Apr-Jun,Year-round,Top Attraction,2.5,2.0,0.7071067811865476,2.0,Premium,1.3577564905934407
+601,Taj Mahal,Uttar Pradesh,Historical,7.679434820985951,Nov-Feb,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.423038304462958
+602,Goa Beaches,Goa,Beach,8.330784565286411,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4249923536958593
+603,Jaipur City,Rajasthan,City,8.51701771288866,Oct-Mar,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6334952073066497
+604,Kerala Backwaters,Kerala,Nature,9.298998286534964,Sep-Mar,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.2358411490275887
+605,Leh Ladakh,Jammu and Kashmir,Adventure,9.015692413525752,Apr-Jun,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6349912314085608
+606,Taj Mahal,Uttar Pradesh,Historical,7.645870324298047,Nov-Feb,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4229376109728942
+607,Goa Beaches,Goa,Beach,7.6520123514027665,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4229560370542085
+608,Jaipur City,Rajasthan,City,8.443802951781302,Oct-Mar,Year-round,Emerging,2.0,2.0,1.4142135623730951,2.0,Budget,1.154915095455777
+609,Kerala Backwaters,Kerala,Nature,8.29568641738167,Sep-Mar,Year-round,Emerging,3.0,2.0,1.4142135623730951,2.0,Budget,1.5544707458525782
+610,Leh Ladakh,Jammu and Kashmir,Adventure,7.940660734256079,Apr-Jun,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.4317661363707521
+611,Taj Mahal,Uttar Pradesh,Historical,9.342123928378385,Nov-Feb,Year-round,Top Attraction,3.5,2.0,0.7071067811865476,2.0,Premium,1.7576100583855683
+612,Goa Beaches,Goa,Beach,7.582948969365619,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4227488469080969
+613,Jaipur City,Rajasthan,City,7.893422691754661,Oct-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0316244222432476
+614,Kerala Backwaters,Kerala,Nature,9.003574785226348,Sep-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.234954878523663
+615,Leh Ladakh,Jammu and Kashmir,Adventure,8.810690633638737,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.4264320719009163
+616,Taj Mahal,Uttar Pradesh,Historical,9.200376502061246,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427601129506184
+617,Goa Beaches,Goa,Beach,9.097017238917031,Nov-Mar,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4352352058847349
+618,Jaipur City,Rajasthan,City,8.39215366577806,Oct-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6331206151653178
+619,Kerala Backwaters,Kerala,Nature,9.4345443222489,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.428303632966747
+620,Leh Ladakh,Jammu and Kashmir,Adventure,8.896288153040157,Apr-Jun,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0346330186271042
+621,Taj Mahal,Uttar Pradesh,Historical,7.820265199039039,Nov-Feb,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.431404949765101
+622,Goa Beaches,Goa,Beach,8.642272298087951,Nov-Mar,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4338709710622477
+623,Jaipur City,Rajasthan,City,7.809114532022525,Oct-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8313714977640512
+624,Kerala Backwaters,Kerala,Nature,8.331131728498399,Sep-Mar,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.232937549353479
+625,Leh Ladakh,Jammu and Kashmir,Adventure,8.352057126187718,Apr-Jun,Year-round,Emerging,3.5,2.0,0.7071067811865476,2.0,Budget,1.7546398579789961
+626,Taj Mahal,Uttar Pradesh,Historical,7.64985755753062,Nov-Feb,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6308937268405755
+627,Goa Beaches,Goa,Beach,7.949828337049644,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4238494850111492
+628,Jaipur City,Rajasthan,City,9.28390783788805,Oct-Mar,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.235795877681648
+629,Kerala Backwaters,Kerala,Nature,7.674024425319291,Sep-Mar,Year-round,Hidden Gem,2.3333333333333335,3.0,1.5275252316519465,3.0,Budget,1.3722437149452584
+630,Leh Ladakh,Jammu and Kashmir,Adventure,9.26454156504302,Apr-Jun,Year-round,Top Attraction,2.5,2.0,0.7071067811865476,2.0,Premium,1.357377311295562
+631,Taj Mahal,Uttar Pradesh,Historical,8.69173765365114,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4260752129609535
+632,Goa Beaches,Goa,Beach,7.876158566558553,Nov-Mar,Year-round,Hidden Gem,3.0,3.0,2.0,3.0,Budget,1.639516784035643
+633,Jaipur City,Rajasthan,City,8.038341365095178,Oct-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6320591782632692
+634,Kerala Backwaters,Kerala,Nature,8.33060225072883,Sep-Mar,Year-round,Emerging,4.5,2.0,0.7071067811865476,2.0,Budget,2.154575493352619
+635,Leh Ladakh,Jammu and Kashmir,Adventure,8.512680031670806,Apr-Jun,Year-round,Popular,2.5,2.0,0.7071067811865476,2.0,Moderate,1.3551217266954454
+636,Taj Mahal,Uttar Pradesh,Historical,8.591103123657849,Nov-Feb,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.233717463538957
+637,Goa Beaches,Goa,Beach,9.155871192324602,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427467613576974
+638,Jaipur City,Rajasthan,City,9.315119560288965,Oct-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6358895128488505
+639,Kerala Backwaters,Kerala,Nature,9.081925622089122,Sep-Mar,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.235189931034251
+640,Leh Ladakh,Jammu and Kashmir,Adventure,8.009714714967838,Apr-Jun,Year-round,Hidden Gem,3.6666666666666665,3.0,2.3094010767585034,3.0,Budget,1.9065841191475374
+641,Taj Mahal,Uttar Pradesh,Historical,8.559749376912812,Nov-Feb,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.633623402298722
+642,Goa Beaches,Goa,Beach,9.304705550324336,Nov-Mar,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.0358582708189568
+643,Jaipur City,Rajasthan,City,9.300321813290449,Oct-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.635845119607855
+644,Kerala Backwaters,Kerala,Nature,9.189377296102892,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4275681318883089
+645,Leh Ladakh,Jammu and Kashmir,Adventure,9.16102966115886,Apr-Jun,Year-round,Top Attraction,3.6666666666666665,3.0,0.5773502691896258,3.0,Premium,1.9100380639861105
+646,Taj Mahal,Uttar Pradesh,Historical,8.90349451280123,Nov-Feb,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6346546377063873
+647,Goa Beaches,Goa,Beach,9.00875189802598,Nov-Mar,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.8349704098620616
+648,Jaipur City,Rajasthan,City,8.771306422116705,Oct-Mar,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.834258073434334
+649,Kerala Backwaters,Kerala,Nature,8.167683021047935,Sep-Mar,Year-round,Emerging,3.0,2.0,2.8284271247461903,2.0,Budget,1.5540867356635768
+650,Leh Ladakh,Jammu and Kashmir,Adventure,8.204607883952981,Apr-Jun,Year-round,Emerging,2.0,2.0,1.4142135623730951,2.0,Budget,1.154197510252292
+651,Taj Mahal,Uttar Pradesh,Historical,9.464391796425565,Nov-Feb,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4363373295572606
+652,Goa Beaches,Goa,Beach,7.956162812949001,Nov-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0318126426068306
+653,Jaipur City,Rajasthan,City,9.496920384788352,Oct-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6364349153223487
+654,Kerala Backwaters,Kerala,Nature,8.441880661939361,Sep-Mar,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8332697961538018
+655,Leh Ladakh,Jammu and Kashmir,Adventure,8.769705210150947,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.426309115630453
+656,Taj Mahal,Uttar Pradesh,Historical,9.032216296013203,Nov-Feb,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8350408030560232
+657,Goa Beaches,Goa,Beach,9.350623282972432,Nov-Mar,Year-round,Top Attraction,3.0,2.0,1.4142135623730951,2.0,Premium,1.5576355564493505
+658,Jaipur City,Rajasthan,City,9.008048228406723,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4270241446852203
+659,Kerala Backwaters,Kerala,Nature,7.991928056209089,Sep-Mar,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.231919938336611
+660,Leh Ladakh,Jammu and Kashmir,Adventure,7.923387964302513,Apr-Jun,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8317143180608912
+661,Taj Mahal,Uttar Pradesh,Historical,9.349513600175449,Nov-Feb,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.03599269496851
+662,Goa Beaches,Goa,Beach,7.848867269009221,Nov-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8314907559750113
+663,Jaipur City,Rajasthan,City,8.822604311521562,Oct-Mar,Year-round,Popular,3.5,2.0,2.1213203435596424,2.0,Moderate,1.7560514995349978
+664,Kerala Backwaters,Kerala,Nature,7.975932402561909,Sep-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6318719513756693
+665,Leh Ladakh,Jammu and Kashmir,Adventure,8.175473128767925,Apr-Jun,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2324705735542874
+666,Taj Mahal,Uttar Pradesh,Historical,8.535347955383795,Nov-Feb,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.833550198034135
+667,Goa Beaches,Goa,Beach,7.97016084501826,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4239104825350548
+668,Jaipur City,Rajasthan,City,7.593849734423116,Oct-Mar,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.430725703371253
+669,Kerala Backwaters,Kerala,Nature,7.840622429583862,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4235218672887517
+670,Leh Ladakh,Jammu and Kashmir,Adventure,7.809939225539317,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.423429817676618
+671,Taj Mahal,Uttar Pradesh,Historical,9.406991630850325,Nov-Feb,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8361651290605348
+672,Goa Beaches,Goa,Beach,7.687336809771084,Nov-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.831006164597297
+673,Jaipur City,Rajasthan,City,7.818407810021514,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4234552234300646
+674,Kerala Backwaters,Kerala,Nature,8.000500722385876,Sep-Mar,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.2319456563351414
+675,Leh Ladakh,Jammu and Kashmir,Adventure,8.944718004457487,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.4268341540133727
+676,Taj Mahal,Uttar Pradesh,Historical,9.263552559071387,Nov-Feb,Year-round,Top Attraction,3.0,2.0,0.0,2.0,Premium,1.5573743442776473
+677,Goa Beaches,Goa,Beach,8.565346616052354,Nov-Mar,Year-round,Popular,2.5,2.0,0.7071067811865476,2.0,Moderate,1.35527972644859
+678,Jaipur City,Rajasthan,City,8.104480470792156,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4243134414123766
+679,Kerala Backwaters,Kerala,Nature,7.841584036663998,Sep-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0314689062779756
+680,Leh Ladakh,Jammu and Kashmir,Adventure,9.159638354049664,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4274789150621492
+681,Taj Mahal,Uttar Pradesh,Historical,8.748130652752925,Nov-Feb,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0341885461262423
+682,Goa Beaches,Goa,Beach,8.57790096253945,Nov-Mar,Year-round,Popular,3.3333333333333335,3.0,1.5275252316519468,3.0,Moderate,1.774955344556919
+683,Jaipur City,Rajasthan,City,8.419040819940108,Oct-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.033201276627804
+684,Kerala Backwaters,Kerala,Nature,9.465996074743892,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4283979882242317
+685,Leh Ladakh,Jammu and Kashmir,Adventure,7.598827165312162,Apr-Jun,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.23074063566392
+686,Taj Mahal,Uttar Pradesh,Historical,8.260858751837267,Nov-Feb,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0327267304234955
+687,Goa Beaches,Goa,Beach,8.036441481700162,Nov-Mar,Year-round,Emerging,2.5,2.0,2.1213203435596424,2.0,Budget,1.3536930110455334
+688,Jaipur City,Rajasthan,City,8.056619012437265,Oct-Mar,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.4321140112052957
+689,Kerala Backwaters,Kerala,Nature,8.133852314473286,Sep-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.42440155694342
+690,Leh Ladakh,Jammu and Kashmir,Adventure,8.195260134545546,Apr-Jun,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6325299345716203
+691,Taj Mahal,Uttar Pradesh,Historical,8.887068416502617,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.426661205249508
+692,Goa Beaches,Goa,Beach,8.822980009436904,Nov-Mar,Year-round,Popular,3.5,2.0,2.1213203435596424,2.0,Moderate,1.7560526266287437
+693,Jaipur City,Rajasthan,City,8.397475308756675,Oct-Mar,Year-round,Emerging,3.3333333333333335,3.0,1.5275252316519468,3.0,Budget,1.7744140675955709
+694,Kerala Backwaters,Kerala,Nature,9.22776324553234,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4276832897365972
+695,Leh Ladakh,Jammu and Kashmir,Adventure,9.288646088702306,Apr-Jun,Year-round,Top Attraction,4.5,2.0,0.7071067811865476,2.0,Premium,2.1574496248665396
+696,Taj Mahal,Uttar Pradesh,Historical,8.627961321716496,Nov-Feb,Year-round,Popular,4.5,2.0,0.7071067811865476,2.0,Moderate,2.155467570565582
+697,Goa Beaches,Goa,Beach,8.419227436314172,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4252576823089427
+698,Jaipur City,Rajasthan,City,8.305889899010864,Oct-Mar,Year-round,Emerging,3.0,2.0,1.4142135623730951,2.0,Budget,1.5545013562974657
+699,Kerala Backwaters,Kerala,Nature,7.6569626144692755,Sep-Mar,Year-round,Hidden Gem,2.3333333333333335,3.0,1.5275252316519468,3.0,Budget,1.3721925295127084
+700,Leh Ladakh,Jammu and Kashmir,Adventure,8.87865289903948,Apr-Jun,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6345801128651021
+701,Taj Mahal,Uttar Pradesh,Historical,8.814028636189173,Nov-Feb,Year-round,Popular,2.5,2.0,0.7071067811865476,2.0,Moderate,1.3560257725090004
+702,Goa Beaches,Goa,Beach,9.111768717459087,Nov-Mar,Year-round,Top Attraction,4.5,2.0,0.7071067811865476,2.0,Premium,2.15691899275281
+703,Jaipur City,Rajasthan,City,8.56369804176352,Oct-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.233635248293274
+704,Kerala Backwaters,Kerala,Nature,7.917510991611324,Sep-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6316966871428176
+705,Leh Ladakh,Jammu and Kashmir,Adventure,8.371945150547274,Apr-Jun,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8330599896196256
+706,Taj Mahal,Uttar Pradesh,Historical,9.023746389658204,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4270712391689748
+707,Goa Beaches,Goa,Beach,8.629118750166763,Nov-Mar,Year-round,Popular,4.5,2.0,0.7071067811865476,2.0,Moderate,2.155471042850933
+708,Jaipur City,Rajasthan,City,8.844219597824981,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.426532658793475
+709,Kerala Backwaters,Kerala,Nature,9.155527396194914,Sep-Mar,Year-round,Top Attraction,4.0,2.0,1.4142135623730951,2.0,Premium,1.9570502687890177
+710,Leh Ladakh,Jammu and Kashmir,Adventure,9.03152474709979,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4270945742412995
+711,Taj Mahal,Uttar Pradesh,Historical,8.636551596129936,Nov-Feb,Year-round,Popular,2.5,2.0,2.1213203435596424,2.0,Moderate,1.3554933413888228
+712,Goa Beaches,Goa,Beach,8.810464389396717,Nov-Mar,Year-round,Popular,2.5,2.0,0.7071067811865476,2.0,Moderate,1.356015079768623
+713,Jaipur City,Rajasthan,City,8.24455368678293,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.424733661060349
+714,Kerala Backwaters,Kerala,Nature,8.655670235424626,Sep-Mar,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.8339111648742576
+715,Leh Ladakh,Jammu and Kashmir,Adventure,8.402277983035928,Apr-Jun,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0331509881170915
+716,Taj Mahal,Uttar Pradesh,Historical,8.878654587888997,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4266359637636672
+717,Goa Beaches,Goa,Beach,8.367306496099209,Nov-Mar,Year-round,Emerging,5.0,2.0,0.0,2.0,Budget,2.3546856060887307
+718,Jaipur City,Rajasthan,City,9.203460228257162,Oct-Mar,Year-round,Top Attraction,5.0,2.0,0.0,2.0,Premium,2.3571940672852043
+719,Kerala Backwaters,Kerala,Nature,8.603678777019319,Sep-Mar,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.8337551904990417
+720,Leh Ladakh,Jammu and Kashmir,Adventure,8.034817273030939,Apr-Jun,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0320486059870764
+721,Taj Mahal,Uttar Pradesh,Historical,8.931632119904084,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4267948963597124
+722,Goa Beaches,Goa,Beach,9.389779698220083,Nov-Mar,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.236113493262644
+723,Jaipur City,Rajasthan,City,8.279131951554369,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4248373958546632
+724,Kerala Backwaters,Kerala,Nature,7.925686613406978,Sep-Mar,Year-round,Hidden Gem,4.5,2.0,0.7071067811865476,2.0,Budget,2.1533607464406535
+725,Leh Ladakh,Jammu and Kashmir,Adventure,9.339552233237942,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.428018656699714
+726,Taj Mahal,Uttar Pradesh,Historical,8.182156495747552,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4245464694872427
+727,Goa Beaches,Goa,Beach,7.714387334549871,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4231431620036497
+728,Jaipur City,Rajasthan,City,9.09930562784097,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4272979168835231
+729,Kerala Backwaters,Kerala,Nature,8.569879157443847,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4257096374723317
+730,Leh Ladakh,Jammu and Kashmir,Adventure,7.896272170257733,Apr-Jun,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8316329706787569
+731,Taj Mahal,Uttar Pradesh,Historical,9.20644321253904,Nov-Feb,Year-round,Top Attraction,4.0,3.0,1.0,3.0,Premium,2.0435076379735846
+732,Goa Beaches,Goa,Beach,8.465381843255685,Nov-Mar,Year-round,Emerging,3.0,2.0,1.4142135623730951,2.0,Budget,1.5549798321302002
+733,Jaipur City,Rajasthan,City,8.703584273601871,Oct-Mar,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0340549069887892
+734,Kerala Backwaters,Kerala,Nature,8.248600725902943,Sep-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0326899563456924
+735,Leh Ladakh,Jammu and Kashmir,Adventure,8.514869186476712,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.4255446075594302
+736,Taj Mahal,Uttar Pradesh,Historical,9.088805186403164,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4272664155592096
+737,Goa Beaches,Goa,Beach,9.413701353656403,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4282411040609693
+738,Jaipur City,Rajasthan,City,8.053822692109417,Oct-Mar,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.832105622244312
+739,Kerala Backwaters,Kerala,Nature,8.372037385587443,Sep-Mar,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.833060266324746
+740,Leh Ladakh,Jammu and Kashmir,Adventure,9.263891738676694,Apr-Jun,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8357358293840138
+741,Taj Mahal,Uttar Pradesh,Historical,7.72777553164018,Nov-Feb,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8311274807629043
+742,Goa Beaches,Goa,Beach,8.532765536915521,Nov-Mar,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0335424507787303
+743,Jaipur City,Rajasthan,City,7.727596682180292,Oct-Mar,Year-round,Hidden Gem,2.5,2.0,2.1213203435596424,2.0,Budget,1.3527664766469738
+744,Kerala Backwaters,Kerala,Nature,8.203211682328114,Sep-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.632553789214968
+745,Leh Ladakh,Jammu and Kashmir,Adventure,7.933373924579141,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4238001217737375
+746,Taj Mahal,Uttar Pradesh,Historical,9.059361289382425,Nov-Feb,Year-round,Top Attraction,4.0,2.0,1.4142135623730951,2.0,Premium,1.9567617704685802
+747,Goa Beaches,Goa,Beach,8.350906820188296,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.425052720460565
+748,Jaipur City,Rajasthan,City,8.719936425969232,Oct-Mar,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6341039634458914
+749,Kerala Backwaters,Kerala,Nature,8.931736559795393,Sep-Mar,Year-round,Popular,3.3333333333333335,3.0,1.1547005383792515,3.0,Moderate,1.776016851348687
+750,Leh Ladakh,Jammu and Kashmir,Adventure,8.956458952804828,Apr-Jun,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.234813531026398
+751,Taj Mahal,Uttar Pradesh,Historical,7.790538404306647,Nov-Feb,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.42337161521292
+752,Goa Beaches,Goa,Beach,8.539108136038704,Nov-Mar,Year-round,Popular,2.5,2.0,2.1213203435596424,2.0,Moderate,1.355201011008549
+753,Jaipur City,Rajasthan,City,8.594748337394,Oct-Mar,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0337283991801656
+754,Kerala Backwaters,Kerala,Nature,8.084015245138538,Sep-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4242520457354158
+755,Leh Ladakh,Jammu and Kashmir,Adventure,7.734281734271488,Apr-Jun,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0311469993707982
+756,Taj Mahal,Uttar Pradesh,Historical,8.54760827518156,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4256428248255448
+757,Goa Beaches,Goa,Beach,7.644463430707246,Nov-Mar,Year-round,Hidden Gem,3.5,2.0,2.1213203435596424,2.0,Budget,1.7525170768925549
+758,Jaipur City,Rajasthan,City,9.12139535266794,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427364186058004
+759,Kerala Backwaters,Kerala,Nature,8.72751759235414,Sep-Mar,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4341267069450463
+760,Leh Ladakh,Jammu and Kashmir,Adventure,8.352180026398809,Apr-Jun,Year-round,Emerging,3.5,0.0,,,Budget,1.4250565400791966
+761,Taj Mahal,Uttar Pradesh,Historical,9.36014231646272,Nov-Feb,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.0360245811173718
+762,Goa Beaches,Goa,Beach,8.147811499679674,Nov-Mar,Year-round,Emerging,4.0,2.0,0.0,2.0,Budget,1.954027121099472
+763,Jaipur City,Rajasthan,City,8.90257550420428,Oct-Mar,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.8346518806805965
+764,Kerala Backwaters,Kerala,Nature,8.506724060467622,Sep-Mar,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.8334643263493866
+765,Leh Ladakh,Jammu and Kashmir,Adventure,8.62458625744304,Apr-Jun,Year-round,Popular,1.3333333333333333,3.0,0.5773502691896258,3.0,Moderate,0.9750954004416296
+766,Taj Mahal,Uttar Pradesh,Historical,8.145328815121932,Nov-Feb,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0323801406133495
+767,Goa Beaches,Goa,Beach,8.24362221802096,Nov-Mar,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2326750208220467
+768,Jaipur City,Rajasthan,City,7.596634440314337,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4227899033209432
+769,Kerala Backwaters,Kerala,Nature,7.57663598347406,Sep-Mar,Year-round,Hidden Gem,3.0,2.0,2.8284271247461903,2.0,Budget,1.5523135945508553
+770,Leh Ladakh,Jammu and Kashmir,Adventure,9.08102960007878,Apr-Jun,Year-round,Top Attraction,3.6666666666666665,3.0,2.3094010767585034,3.0,Premium,1.9097980638028704
+771,Taj Mahal,Uttar Pradesh,Historical,8.129988976860952,Nov-Feb,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6323341210985665
+772,Goa Beaches,Goa,Beach,9.13732713238196,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427411981397146
+773,Jaipur City,Rajasthan,City,8.784997932243503,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4263549937967306
+774,Kerala Backwaters,Kerala,Nature,8.038663649202402,Sep-Mar,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.432060145115591
+775,Leh Ladakh,Jammu and Kashmir,Adventure,8.079156318407351,Apr-Jun,Year-round,Emerging,3.0,2.0,2.8284271247461903,2.0,Budget,1.5538211555556551
+776,Taj Mahal,Uttar Pradesh,Historical,8.459363313306993,Nov-Feb,Year-round,Emerging,2.0,2.0,1.4142135623730951,2.0,Budget,1.154961776540354
+777,Goa Beaches,Goa,Beach,9.046231352406494,Nov-Mar,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.235082848225203
+778,Jaipur City,Rajasthan,City,9.200907306361843,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4276027219190857
+779,Kerala Backwaters,Kerala,Nature,8.861507015552508,Sep-Mar,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0345286752146412
+780,Leh Ladakh,Jammu and Kashmir,Adventure,9.291685937704914,Apr-Jun,Year-round,Top Attraction,4.5,2.0,0.7071067811865476,2.0,Premium,2.1574587444135473
+781,Taj Mahal,Uttar Pradesh,Historical,8.531079521858732,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4255932385655763
+782,Goa Beaches,Goa,Beach,8.99783225118662,Nov-Mar,Year-round,Popular,2.0,2.0,0.0,2.0,Moderate,1.1565771833539928
+783,Jaipur City,Rajasthan,City,8.528348193854123,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4255850445815625
+784,Kerala Backwaters,Kerala,Nature,8.317882740052342,Sep-Mar,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8328978023881408
+785,Leh Ladakh,Jammu and Kashmir,Adventure,9.366933345133754,Apr-Jun,Year-round,Top Attraction,3.0,2.0,1.4142135623730951,2.0,Premium,1.5576844866358344
+786,Taj Mahal,Uttar Pradesh,Historical,8.389205905418272,Nov-Feb,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0331117718842384
+787,Goa Beaches,Goa,Beach,9.44212563021952,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4283263768906587
+788,Jaipur City,Rajasthan,City,8.223627062910356,Oct-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0326150353567147
+789,Kerala Backwaters,Kerala,Nature,8.174235795355958,Sep-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.424522707386068
+790,Leh Ladakh,Jammu and Kashmir,Adventure,9.157720701508042,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4274731621045242
+791,Taj Mahal,Uttar Pradesh,Historical,9.42168809807716,Nov-Feb,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.236209218462215
+792,Goa Beaches,Goa,Beach,7.50562874119151,Nov-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6304610403915581
+793,Jaipur City,Rajasthan,City,7.781580260307882,Oct-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8312888949489075
+794,Kerala Backwaters,Kerala,Nature,8.531159787998941,Sep-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.2335376335319803
+795,Leh Ladakh,Jammu and Kashmir,Adventure,8.189514727765914,Apr-Jun,Year-round,Emerging,2.6666666666666665,3.0,1.1547005383792515,3.0,Budget,1.5071235191859316
+796,Taj Mahal,Uttar Pradesh,Historical,9.243698788707544,Nov-Feb,Year-round,Top Attraction,2.0,2.0,1.4142135623730951,2.0,Premium,1.1573147829665555
+797,Goa Beaches,Goa,Beach,9.120638441373126,Nov-Mar,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.235306069492103
+798,Jaipur City,Rajasthan,City,7.608875043089363,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4228266251292683
+799,Kerala Backwaters,Kerala,Nature,9.078902378388406,Sep-Mar,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.235180861303149
+800,Leh Ladakh,Jammu and Kashmir,Adventure,7.972030910129,Apr-Jun,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6318602468983706
+801,Taj Mahal,Uttar Pradesh,Historical,9.157148625977571,Nov-Feb,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.235415600045916
+802,Goa Beaches,Goa,Beach,9.41083109431862,Nov-Mar,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.0361766474509395
+803,Jaipur City,Rajasthan,City,9.31045957210701,Oct-Mar,Year-round,Top Attraction,4.5,2.0,0.7071067811865476,2.0,Premium,2.157515065316754
+804,Kerala Backwaters,Kerala,Nature,8.208242452766306,Sep-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.424624727358299
+805,Leh Ladakh,Jammu and Kashmir,Adventure,8.410141709638284,Apr-Jun,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8331745792968985
+806,Taj Mahal,Uttar Pradesh,Historical,8.576757876815993,Nov-Feb,Year-round,Popular,4.75,4.0,0.5,4.0,Moderate,2.408561647360678
+807,Goa Beaches,Goa,Beach,9.178994029748877,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4275369820892467
+808,Jaipur City,Rajasthan,City,8.01406881114496,Oct-Mar,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.2319863606014185
+809,Kerala Backwaters,Kerala,Nature,7.8442566698712035,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4235327700096136
+810,Leh Ladakh,Jammu and Kashmir,Adventure,8.161053310539785,Apr-Jun,Year-round,Emerging,4.0,2.0,1.4142135623730951,2.0,Budget,1.9540668465320523
+811,Taj Mahal,Uttar Pradesh,Historical,9.393805813478073,Nov-Feb,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4281814174404344
+812,Goa Beaches,Goa,Beach,9.006784740288401,Nov-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.234964508388849
+813,Jaipur City,Rajasthan,City,8.336255248752801,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4250087657462585
+814,Kerala Backwaters,Kerala,Nature,7.589205999248015,Sep-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6307117721657277
+815,Leh Ladakh,Jammu and Kashmir,Adventure,9.220824441474456,Apr-Jun,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.835606627492407
+816,Taj Mahal,Uttar Pradesh,Historical,9.423987379093196,Nov-Feb,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8362161163052633
+817,Goa Beaches,Goa,Beach,7.999026975129425,Nov-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.831941235093372
+818,Jaipur City,Rajasthan,City,8.385706717073933,Oct-Mar,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.4331012743192055
+819,Kerala Backwaters,Kerala,Nature,7.562622503552138,Sep-Mar,Year-round,Hidden Gem,4.0,2.0,1.4142135623730951,2.0,Budget,1.9522715541110893
+820,Leh Ladakh,Jammu and Kashmir,Adventure,8.772244496732984,Apr-Jun,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.8342608876581827
+821,Taj Mahal,Uttar Pradesh,Historical,8.853137683108654,Nov-Feb,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0345035672173095
+822,Goa Beaches,Goa,Beach,9.22889675552697,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427686690266581
+823,Jaipur City,Rajasthan,City,8.501224868997667,Oct-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.2334478287749766
+824,Kerala Backwaters,Kerala,Nature,9.206043310589514,Sep-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8355622840997523
+825,Leh Ladakh,Jammu and Kashmir,Adventure,7.943715893520679,Apr-Jun,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0317753018485456
+826,Taj Mahal,Uttar Pradesh,Historical,8.277156854345177,Nov-Feb,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8327756247310192
+827,Goa Beaches,Goa,Beach,8.377495779286125,Nov-Mar,Year-round,Emerging,2.5,2.0,2.1213203435596424,2.0,Budget,1.3547161739382914
+828,Jaipur City,Rajasthan,City,7.804063905354139,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4234121917160625
+829,Kerala Backwaters,Kerala,Nature,9.073371866855572,Sep-Mar,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.0351642697685504
+830,Leh Ladakh,Jammu and Kashmir,Adventure,7.928094923060946,Apr-Jun,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6317284389371665
+831,Taj Mahal,Uttar Pradesh,Historical,8.771961835427916,Nov-Feb,Year-round,Popular,4.0,2.0,1.4142135623730951,2.0,Moderate,1.9558995721067167
+832,Goa Beaches,Goa,Beach,9.366867008044636,Nov-Mar,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.2360447551921174
+833,Jaipur City,Rajasthan,City,7.976891811337149,Oct-Mar,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.4318748296019952
+834,Kerala Backwaters,Kerala,Nature,8.329340966088974,Sep-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.424988022898267
+835,Leh Ladakh,Jammu and Kashmir,Adventure,8.622267855355735,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.4258668035660673
+836,Taj Mahal,Uttar Pradesh,Historical,7.789458969308924,Nov-Feb,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.2313125310759103
+837,Goa Beaches,Goa,Beach,9.49270628520052,Nov-Mar,Year-round,Top Attraction,5.0,2.0,0.0,2.0,Premium,2.3580618054560345
+838,Jaipur City,Rajasthan,City,7.6511899073828,Oct-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.030897723890132
+839,Kerala Backwaters,Kerala,Nature,9.19673720089384,Sep-Mar,Year-round,Top Attraction,3.0,1.0,0.0,1.0,Premium,1.4355343657706654
+840,Leh Ladakh,Jammu and Kashmir,Adventure,7.93351873337229,Apr-Jun,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6317447103681005
+841,Taj Mahal,Uttar Pradesh,Historical,8.641198251436522,Nov-Feb,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6338677489222933
+842,Goa Beaches,Goa,Beach,8.784629096343433,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4263538872890305
+843,Jaipur City,Rajasthan,City,9.191194972792676,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4275735849183782
+844,Kerala Backwaters,Kerala,Nature,9.173580627388572,Sep-Mar,Year-round,Top Attraction,1.5,2.0,0.7071067811865476,2.0,Premium,0.9571044284825987
+845,Leh Ladakh,Jammu and Kashmir,Adventure,8.669449269625428,Apr-Jun,Year-round,Popular,4.0,1.0,0.0,1.0,Moderate,1.8339525019768599
+846,Taj Mahal,Uttar Pradesh,Historical,8.971338259095013,Nov-Feb,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.2348581689452685
+847,Goa Beaches,Goa,Beach,7.790585198400288,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.423371755595201
+848,Jaipur City,Rajasthan,City,9.02991974288286,Oct-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6350339133966322
+849,Kerala Backwaters,Kerala,Nature,8.749274375887886,Sep-Mar,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6341919772956472
+850,Leh Ladakh,Jammu and Kashmir,Adventure,8.64491136642723,Apr-Jun,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4338788882672655
+851,Taj Mahal,Uttar Pradesh,Historical,9.33544112557844,Nov-Feb,Year-round,Top Attraction,3.5,2.0,0.7071067811865476,2.0,Premium,1.7575900099771684
+852,Goa Beaches,Goa,Beach,8.287492091663,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.424862476274989
+853,Jaipur City,Rajasthan,City,9.04694477176505,Oct-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6350849884832788
+854,Kerala Backwaters,Kerala,Nature,9.33810388495833,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4280143116548751
+855,Leh Ladakh,Jammu and Kashmir,Adventure,8.913268954871437,Apr-Jun,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.034683961032598
+856,Taj Mahal,Uttar Pradesh,Historical,7.668691908852082,Nov-Feb,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4230060757265564
+857,Goa Beaches,Goa,Beach,9.027677154981644,Nov-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8350271856329285
+858,Jaipur City,Rajasthan,City,8.491365337579884,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4254740960127399
+859,Kerala Backwaters,Kerala,Nature,7.921623278868692,Sep-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0317090240045896
+860,Leh Ladakh,Jammu and Kashmir,Adventure,7.7202244959060975,Apr-Jun,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.031104827655702
+861,Taj Mahal,Uttar Pradesh,Historical,7.824049108063554,Nov-Feb,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4234721473241907
+862,Goa Beaches,Goa,Beach,8.527437466841967,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.425582312400526
+863,Jaipur City,Rajasthan,City,7.5288565248227135,Oct-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.030530723742452
+864,Kerala Backwaters,Kerala,Nature,9.147968243343048,Sep-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.835388058898013
+865,Leh Ladakh,Jammu and Kashmir,Adventure,8.989187748130234,Apr-Jun,Year-round,Popular,3.3333333333333335,3.0,2.0816659994661326,3.0,Moderate,1.7761892049136914
+866,Taj Mahal,Uttar Pradesh,Historical,8.15752225096045,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4244725667528815
+867,Goa Beaches,Goa,Beach,7.544784240485142,Nov-Mar,Year-round,Hidden Gem,2.5,4.0,1.7320508075688772,4.0,Budget,1.5054657264516855
+868,Jaipur City,Rajasthan,City,8.498230857041534,Oct-Mar,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4334388467391084
+869,Kerala Backwaters,Kerala,Nature,7.67787032728221,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4230336109818467
+870,Leh Ladakh,Jammu and Kashmir,Adventure,8.31662363535272,Apr-Jun,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.432894025074042
+871,Taj Mahal,Uttar Pradesh,Historical,7.643206988401131,Nov-Feb,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4229296209652036
+872,Goa Beaches,Goa,Beach,9.413328344476888,Nov-Mar,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.0361841392014144
+873,Jaipur City,Rajasthan,City,9.231967797202106,Oct-Mar,Year-round,Top Attraction,2.5,2.0,0.7071067811865476,2.0,Premium,1.3572795899920391
+874,Kerala Backwaters,Kerala,Nature,8.671636575343907,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.426014909726032
+875,Leh Ladakh,Jammu and Kashmir,Adventure,8.98297001694882,Apr-Jun,Year-round,Popular,4.5,2.0,0.7071067811865476,2.0,Moderate,2.1565325966512794
+876,Taj Mahal,Uttar Pradesh,Historical,8.796715429177867,Nov-Feb,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6343343004555172
+877,Goa Beaches,Goa,Beach,7.911432523928271,Nov-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.8316784517397686
+878,Jaipur City,Rajasthan,City,7.601483087639889,Oct-Mar,Year-round,Hidden Gem,3.75,4.0,0.9574271077563381,4.0,Budget,2.00563582299315
+879,Kerala Backwaters,Kerala,Nature,8.309631133912779,Sep-Mar,Year-round,Emerging,3.5,2.0,0.7071067811865476,2.0,Budget,1.7545125800021715
+880,Leh Ladakh,Jammu and Kashmir,Adventure,8.442750358263288,Apr-Jun,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8332724052427736
+881,Taj Mahal,Uttar Pradesh,Historical,8.278291770000452,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4248348753100015
+882,Goa Beaches,Goa,Beach,8.449238005542009,Nov-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4253477140166262
+883,Jaipur City,Rajasthan,City,7.95494238797158,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.423864827163915
+884,Kerala Backwaters,Kerala,Nature,9.241444802843858,Sep-Mar,Year-round,Top Attraction,2.5,2.0,2.1213203435596424,2.0,Premium,1.3573080210089645
+885,Leh Ladakh,Jammu and Kashmir,Adventure,9.03191394329098,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427095741829873
+886,Taj Mahal,Uttar Pradesh,Historical,7.713067194844037,Nov-Feb,Year-round,Hidden Gem,4.0,2.0,1.4142135623730951,2.0,Budget,1.9527228881849652
+887,Goa Beaches,Goa,Beach,7.590325473167349,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4227709764195022
+888,Jaipur City,Rajasthan,City,8.968588466673665,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4269057654000212
+889,Kerala Backwaters,Kerala,Nature,9.002930521303405,Sep-Mar,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.434952945731894
+890,Leh Ladakh,Jammu and Kashmir,Adventure,7.743039575412055,Apr-Jun,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.2311732728942197
+891,Taj Mahal,Uttar Pradesh,Historical,9.223991095114595,Nov-Feb,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6356161274533274
+892,Goa Beaches,Goa,Beach,8.86432839457484,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4265929851837247
+893,Jaipur City,Rajasthan,City,8.375786034039642,Oct-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0330715122701026
+894,Kerala Backwaters,Kerala,Nature,8.8155969048925,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4264467907146776
+895,Leh Ladakh,Jammu and Kashmir,Adventure,8.011096326725276,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.424033288980176
+896,Taj Mahal,Uttar Pradesh,Historical,8.775168604432578,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4263255058132978
+897,Goa Beaches,Goa,Beach,8.342976753551683,Nov-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6329730844286386
+898,Jaipur City,Rajasthan,City,8.311533772217603,Oct-Mar,Year-round,Emerging,1.5,2.0,0.7071067811865476,2.0,Budget,0.9545182879170858
+899,Kerala Backwaters,Kerala,Nature,8.575304720464212,Sep-Mar,Year-round,Popular,1.0,1.0,0.0,1.0,Moderate,0.6336700683293762
+900,Leh Ladakh,Jammu and Kashmir,Adventure,8.81228742963959,Apr-Jun,Year-round,Popular,3.0,2.0,2.8284271247461903,2.0,Moderate,1.556020548889352
+901,Taj Mahal,Uttar Pradesh,Historical,7.94384380620817,Nov-Feb,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4238315314186247
+902,Goa Beaches,Goa,Beach,9.115849499250787,Nov-Mar,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.035291702665736
+903,Jaipur City,Rajasthan,City,8.253494745892702,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4247604842376782
+904,Kerala Backwaters,Kerala,Nature,8.574376628395806,Sep-Mar,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.4336672840531712
+905,Leh Ladakh,Jammu and Kashmir,Adventure,8.13644498964263,Apr-Jun,Year-round,Emerging,2.5,2.0,2.1213203435596424,2.0,Budget,1.3539930215693607
+906,Taj Mahal,Uttar Pradesh,Historical,8.619770095066015,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4258593102851982
+907,Goa Beaches,Goa,Beach,8.06914958687841,Nov-Mar,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.432151602928619
+908,Jaipur City,Rajasthan,City,8.452641011322342,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4253579230339672
+909,Kerala Backwaters,Kerala,Nature,8.740400669784297,Sep-Mar,Year-round,Popular,3.0,2.0,1.4142135623730951,2.0,Moderate,1.555804888609786
+910,Leh Ladakh,Jammu and Kashmir,Adventure,8.569335477200543,Apr-Jun,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0336521605995852
+911,Taj Mahal,Uttar Pradesh,Historical,7.685181358142892,Nov-Feb,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.4309996982424125
+912,Goa Beaches,Goa,Beach,9.4380138836961,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4283140416510884
+913,Jaipur City,Rajasthan,City,7.58801460622224,Oct-Mar,Year-round,Hidden Gem,5.0,1.0,0.0,1.0,Budget,2.2307081979866505
+914,Kerala Backwaters,Kerala,Nature,9.285417260653366,Sep-Mar,Year-round,Top Attraction,2.6666666666666665,3.0,1.1547005383792515,3.0,Premium,1.510411226784594
+915,Leh Ladakh,Jammu and Kashmir,Adventure,7.85112195819902,Apr-Jun,Year-round,Hidden Gem,3.5,2.0,0.7071067811865476,2.0,Budget,1.75313705247503
+916,Taj Mahal,Uttar Pradesh,Historical,9.39676149780104,Nov-Feb,Year-round,Top Attraction,4.0,2.0,1.4142135623730951,2.0,Premium,1.9577739710938362
+917,Goa Beaches,Goa,Beach,7.545108072258168,Nov-Mar,Year-round,Hidden Gem,2.0,2.0,1.4142135623730951,2.0,Budget,1.1522190108172075
+918,Jaipur City,Rajasthan,City,9.371201913686736,Oct-Mar,Year-round,Top Attraction,2.0,2.0,0.0,2.0,Premium,1.1576972923414932
+919,Kerala Backwaters,Kerala,Nature,9.252136618345416,Sep-Mar,Year-round,Top Attraction,5.0,1.0,0.0,1.0,Premium,2.23570056402302
+920,Leh Ladakh,Jammu and Kashmir,Adventure,7.584679630283544,Apr-Jun,Year-round,Hidden Gem,3.5,2.0,0.7071067811865476,2.0,Budget,1.7523377254912837
+921,Taj Mahal,Uttar Pradesh,Historical,8.685684922550122,Nov-Feb,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.034001208935634
+922,Goa Beaches,Goa,Beach,9.298024384615864,Nov-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8358382273218312
+923,Jaipur City,Rajasthan,City,7.821684368681256,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.423465053106044
+924,Kerala Backwaters,Kerala,Nature,8.644015149109247,Sep-Mar,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0338761996153114
+925,Leh Ladakh,Jammu and Kashmir,Adventure,7.801125565121017,Apr-Jun,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.423403376695363
+926,Taj Mahal,Uttar Pradesh,Historical,8.324741876265339,Nov-Feb,Year-round,Emerging,3.5,2.0,2.1213203435596424,2.0,Budget,1.754557912229229
+927,Goa Beaches,Goa,Beach,7.741214133839709,Nov-Mar,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0311677965695027
+928,Jaipur City,Rajasthan,City,8.026833743679079,Oct-Mar,Year-round,Hidden Gem,4.0,1.0,0.0,1.0,Budget,1.832024655399021
+929,Kerala Backwaters,Kerala,Nature,8.66318905277383,Sep-Mar,Year-round,Popular,2.0,1.0,0.0,1.0,Moderate,1.0339337213263051
+930,Leh Ladakh,Jammu and Kashmir,Adventure,8.54331105953082,Apr-Jun,Year-round,Popular,3.5,0.0,,,Moderate,1.4256299331785927
+931,Taj Mahal,Uttar Pradesh,Historical,9.309322896703316,Nov-Feb,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6358721228580936
+932,Goa Beaches,Goa,Beach,7.936004330312837,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4238080129909387
+933,Jaipur City,Rajasthan,City,9.274200565698507,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4278226016970956
+934,Kerala Backwaters,Kerala,Nature,7.904577589196294,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.423713732767589
+935,Leh Ladakh,Jammu and Kashmir,Adventure,8.473490132236787,Apr-Jun,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.633364624564694
+936,Taj Mahal,Uttar Pradesh,Historical,8.02055897257851,Nov-Feb,Year-round,Hidden Gem,2.5,2.0,0.7071067811865476,2.0,Budget,1.3536453635181684
+937,Goa Beaches,Goa,Beach,8.257655225773263,Nov-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.0327171198453033
+938,Jaipur City,Rajasthan,City,9.20608066746193,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427618242002386
+939,Kerala Backwaters,Kerala,Nature,8.40872418732025,Sep-Mar,Year-round,Emerging,3.0,1.0,0.0,1.0,Budget,1.4331703267299445
+940,Leh Ladakh,Jammu and Kashmir,Adventure,7.737707489631597,Apr-Jun,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6311572766368785
+941,Taj Mahal,Uttar Pradesh,Historical,8.645046758887661,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4259351402766631
+942,Goa Beaches,Goa,Beach,8.702652455921308,Nov-Mar,Year-round,Popular,3.3333333333333335,3.0,1.5275252316519465,3.0,Moderate,1.7753295990370646
+943,Jaipur City,Rajasthan,City,9.106183997228763,Oct-Mar,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.83526270615967
+944,Kerala Backwaters,Kerala,Nature,9.429650079998778,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4282889502399965
+945,Leh Ladakh,Jammu and Kashmir,Adventure,7.537510610841785,Apr-Jun,Year-round,Hidden Gem,4.5,2.0,0.7071067811865476,2.0,Budget,2.152196218432958
+946,Taj Mahal,Uttar Pradesh,Historical,8.012249945176515,Nov-Feb,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0319809040035133
+947,Goa Beaches,Goa,Beach,7.619280847171351,Nov-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4228578425415142
+948,Jaipur City,Rajasthan,City,7.708772719956032,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4231263181598681
+949,Kerala Backwaters,Kerala,Nature,9.087608839185751,Sep-Mar,Year-round,Top Attraction,5.0,2.0,0.0,2.0,Premium,2.3568465131179903
+950,Leh Ladakh,Jammu and Kashmir,Adventure,7.671909274040946,Apr-Jun,Year-round,Hidden Gem,3.0,1.0,0.0,1.0,Budget,1.4309598819901066
+951,Taj Mahal,Uttar Pradesh,Historical,8.365692888254666,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.425097078664764
+952,Goa Beaches,Goa,Beach,8.123015873320766,Nov-Mar,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.232313201787946
+953,Jaipur City,Rajasthan,City,8.321398766693164,Oct-Mar,Year-round,Emerging,2.5,2.0,2.1213203435596424,2.0,Budget,1.3545478829005124
+954,Kerala Backwaters,Kerala,Nature,9.192148287990324,Sep-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6355205990319546
+955,Leh Ladakh,Jammu and Kashmir,Adventure,8.10676258457348,Apr-Jun,Year-round,Emerging,4.5,2.0,0.7071067811865476,2.0,Budget,2.153903974354153
+956,Taj Mahal,Uttar Pradesh,Historical,9.240773308493525,Nov-Feb,Year-round,Top Attraction,4.0,1.0,0.0,1.0,Premium,1.8356664740934643
+957,Goa Beaches,Goa,Beach,9.319617878220548,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4279588536346617
+958,Jaipur City,Rajasthan,City,7.932950633090041,Oct-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4237988518992704
+959,Kerala Backwaters,Kerala,Nature,9.052548436473314,Sep-Mar,Year-round,Top Attraction,2.0,1.0,0.0,1.0,Premium,1.0351017994774037
+960,Leh Ladakh,Jammu and Kashmir,Adventure,8.925500312367074,Apr-Jun,Year-round,Popular,3.0,4.0,1.4142135623730951,4.0,Moderate,1.7096078746673316
+961,Taj Mahal,Uttar Pradesh,Historical,8.385107105120452,Nov-Feb,Year-round,Emerging,3.3333333333333335,3.0,1.5275252316519468,3.0,Budget,1.774376962984662
+962,Goa Beaches,Goa,Beach,9.210850998967874,Nov-Mar,Year-round,Top Attraction,1.0,1.0,0.0,1.0,Premium,0.6355767071648872
+963,Jaipur City,Rajasthan,City,8.81434371431127,Oct-Mar,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.2343871853109176
+964,Kerala Backwaters,Kerala,Nature,8.86184135941464,Sep-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4265855240782441
+965,Leh Ladakh,Jammu and Kashmir,Adventure,8.636537892208446,Apr-Jun,Year-round,Popular,3.0,1.0,0.0,1.0,Moderate,1.433853767844609
+966,Taj Mahal,Uttar Pradesh,Historical,9.140527124056437,Nov-Feb,Year-round,Top Attraction,3.3333333333333335,3.0,1.5275252316519468,3.0,Premium,1.77664322304147
+967,Goa Beaches,Goa,Beach,7.528727096669634,Nov-Mar,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6305303354579925
+968,Jaipur City,Rajasthan,City,9.06097855232804,Oct-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4271829356569843
+969,Kerala Backwaters,Kerala,Nature,9.409359526915562,Sep-Mar,Year-round,Top Attraction,3.0,4.0,1.8257418583505538,4.0,Premium,1.711059452310977
+970,Leh Ladakh,Jammu and Kashmir,Adventure,9.01310124502825,Apr-Jun,Year-round,Popular,1.5,2.0,0.7071067811865476,2.0,Moderate,0.9566229903355178
+971,Taj Mahal,Uttar Pradesh,Historical,8.372423129319028,Nov-Feb,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2330614235559407
+972,Goa Beaches,Goa,Beach,9.215187537133938,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.427645562611402
+973,Jaipur City,Rajasthan,City,8.565934397421195,Oct-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4256978031922638
+974,Kerala Backwaters,Kerala,Nature,7.686987873824284,Sep-Mar,Year-round,Hidden Gem,3.75,4.0,1.8929694486000912,4.0,Budget,2.005892337351703
+975,Leh Ladakh,Jammu and Kashmir,Adventure,8.780722103503646,Apr-Jun,Year-round,Popular,1.6666666666666667,3.0,1.1547005383792517,3.0,Moderate,1.108897141313145
+976,Taj Mahal,Uttar Pradesh,Historical,8.008536059147975,Nov-Feb,Year-round,Hidden Gem,1.0,1.0,0.0,1.0,Budget,0.6319697623454276
+977,Goa Beaches,Goa,Beach,8.499576395856343,Nov-Mar,Year-round,Popular,3.0,3.0,0.0,3.0,Moderate,1.6413870375235364
+978,Jaipur City,Rajasthan,City,8.519173371272599,Oct-Mar,Year-round,Popular,3.0,2.0,2.8284271247461903,2.0,Moderate,1.555141206714251
+979,Kerala Backwaters,Kerala,Nature,9.08174574800675,Sep-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4272452372440203
+980,Leh Ladakh,Jammu and Kashmir,Adventure,9.347621264963776,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4280428637948914
+981,Taj Mahal,Uttar Pradesh,Historical,8.732673715422088,Nov-Feb,Year-round,Popular,3.5,0.0,,,Moderate,1.4261980211462664
+982,Goa Beaches,Goa,Beach,8.841048136040031,Nov-Mar,Year-round,Popular,3.5,0.0,,,Moderate,1.4265231444081203
+983,Jaipur City,Rajasthan,City,9.08021631984698,Oct-Mar,Year-round,Top Attraction,2.5,2.0,0.7071067811865476,2.0,Premium,1.3568243355599738
+984,Kerala Backwaters,Kerala,Nature,7.748098699266505,Sep-Mar,Year-round,Hidden Gem,3.5,0.0,,,Budget,1.4232442960977996
+985,Leh Ladakh,Jammu and Kashmir,Adventure,9.034655060888772,Apr-Jun,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4271039651826665
+986,Taj Mahal,Uttar Pradesh,Historical,8.108715094313126,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4243261452829394
+987,Goa Beaches,Goa,Beach,9.499811031053753,Nov-Mar,Year-round,Top Attraction,3.5,0.0,,,Premium,1.4284994330931613
+988,Jaipur City,Rajasthan,City,7.96234787124329,Oct-Mar,Year-round,Hidden Gem,2.5,2.0,2.1213203435596424,2.0,Budget,1.3534707302141629
+989,Kerala Backwaters,Kerala,Nature,8.208087955185452,Sep-Mar,Year-round,Emerging,2.0,1.0,0.0,1.0,Budget,1.03256841803354
+990,Leh Ladakh,Jammu and Kashmir,Adventure,8.117425964659915,Apr-Jun,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2322964320619634
+991,Taj Mahal,Uttar Pradesh,Historical,8.20738838115243,Nov-Feb,Year-round,Emerging,3.5,0.0,,,Budget,1.4246221651434574
+992,Goa Beaches,Goa,Beach,8.114747172536235,Nov-Mar,Year-round,Emerging,1.0,1.0,0.0,1.0,Budget,0.6322883956855924
+993,Jaipur City,Rajasthan,City,8.19515468129691,Oct-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4245854640438909
+994,Kerala Backwaters,Kerala,Nature,8.165291117364324,Sep-Mar,Year-round,Emerging,3.5,0.0,,,Budget,1.4244958733520932
+995,Leh Ladakh,Jammu and Kashmir,Adventure,7.74636736837115,Apr-Jun,Year-round,Hidden Gem,2.0,1.0,0.0,1.0,Budget,1.0311832562730971
+996,Taj Mahal,Uttar Pradesh,Historical,8.13381819081494,Nov-Feb,Year-round,Emerging,5.0,1.0,0.0,1.0,Budget,2.2323456087404283
+997,Goa Beaches,Goa,Beach,8.203518828553301,Nov-Mar,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8325547106536435
+998,Jaipur City,Rajasthan,City,8.308435430056575,Oct-Mar,Year-round,Emerging,4.0,1.0,0.0,1.0,Budget,1.8328694604581535
+999,Kerala Backwaters,Kerala,Nature,8.961740523595862,Sep-Mar,Year-round,Popular,2.6666666666666665,3.0,1.1547005383792517,3.0,Moderate,1.5094401965734214
+1000,Leh Ladakh,Jammu and Kashmir,Adventure,8.939036209396416,Apr-Jun,Year-round,Popular,5.0,1.0,0.0,1.0,Moderate,2.234761262796173

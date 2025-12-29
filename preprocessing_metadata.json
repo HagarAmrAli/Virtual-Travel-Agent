@@ -1,0 +1,20 @@
+{
+  "destinations_count": 1000,
+  "users_count": 999,
+  "interactions_count": 999,
+  "destination_types": [
+    "Historical",
+    "Beach",
+    "City",
+    "Nature",
+    "Adventure"
+  ],
+  "states": [
+    "Uttar Pradesh",
+    "Goa",
+    "Rajasthan",
+    "Kerala",
+    "Jammu and Kashmir"
+  ],
+  "processing_date": "2025-12-29T17:54:37.891542"
+}
